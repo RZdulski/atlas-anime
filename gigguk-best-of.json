@@ -1,0 +1,6218 @@
+{
+  "date": "2026-10-05",
+  "stats": {
+    "appearances": 143,
+    "malEntries": 145,
+    "years": 8,
+    "completed": 54,
+    "honorable": 28,
+    "categoryMentions": 19
+  },
+  "notes": [
+    "Osiem rocznych filmów „Best of Anime”: 2017, 2018 i 2020–2025. 143 wpisów w rocznikach, w tym 28 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.",
+    "Zachowano honorable mentions. Pochwalone kontynuacje pominięte w głównym rankingu także oznaczono jako wyróżnienia. W starszych filmach wybory dotyczą nieraz wyłącznie muzyki, animacji lub jednej walki; nie oznaczają rekomendacji całego serialu. Reklam, negatywnych przykładów, zwykłych porównań i fałszywych zwycięzców użytych wyłącznie jako żart nie włączono.",
+    "Ta zakładka odtwarza wybory Gigguka, dlatego nie stosuje progu ocen i popularności z głównego kanonu. Pogrubienie nadal oznacza przynależność do rdzenia kanonu, a nie miejsce u Gigguka. Komentarze są krótkimi objaśnieniami, nie cytatami ani oceną zgodności z Twoim gustem.",
+    "Status pochodzi z lokalnego anime-list.json. Przy kilku częściach podano osobny status każdej: „Obejrzane” dla całego wpisu wymaga ukończenia wszystkich wskazanych części. „Brak wpisu” nie rozstrzyga, czy oglądałeś tytuł. Status dotyczy całego rekordu MAL, także gdy Gigguk omawiał tylko dostępną wtedy część emisji.",
+    "Nie znaleziono osobnych „Best of Anime 2019” ani „Best of Anime 2026”. Przeglądy „Anime in…” mają inny zakres i nie są tutaj traktowane jako rankingi. W 2021 dodatkowym wyborem „animacji roku” było Arcane; w 2020 finał dotyczył VTuberów. Te wzmianki pozostają poza tabelą anime.",
+    "Źródła: opisy i rozdziały filmów, nieoficjalny indeks wypowiedzi Gigguk Database oraz pomocnicze spisy widzów. Nie wykonano pełnego odsłuchu ośmiu filmów, więc nie gwarantujemy wychwycenia każdego krótkiego napisu ekranowego. Linki czasowe z indeksu prowadzą do wypowiedzi, nie zawsze do początku rozdziału. Stan opracowania: 5 października 2026."
+  ],
+  "sources": {
+    "retrievedAt": "2026-10-05",
+    "channel": "https://www.youtube.com/@gigguk",
+    "inventory": "https://thetvdb.com/series/gigguk/allseasons/official",
+    "index": "https://giggukdb.com/",
+    "scope": "Osiem filmów głównego kanału zatytułowanych Best of Anime: 2017, 2018, 2020–2025. Ogólne przeglądy Anime in… i filmy drugiego kanału nie są traktowane jako osobne roczne rankingi Best of.",
+    "method": "Ręczna selekcja na podstawie rozdziałów i opisów filmów, indeksu wypowiedzi Gigguk Database oraz pomocniczych spisów widzów. Indeks jest nieoficjalny i zawiera automatyczne klasyfikacje; jego identyfikatorów anime nie przeniesiono bezkrytycznie. Rozpoznano m.in. odniesienie do Boruto błędnie przypisane Naruto oraz nazwy franczyz zamiast konkretnych sezonów. Nie przeprowadzono pełnego odsłuchu wszystkich ośmiu filmów; zwłaszcza krótkie napisy ekranowe mogą nie być ujęte w indeksie.",
+    "supplementary": {
+      "2021": "https://www.reddit.com/r/anime/comments/sb4hpt/best_of_anime_2021_gigguk/",
+      "2022": "https://www.reddit.com/r/anime/comments/10oh1ru/best_of_anime_2022_by_gigguk/",
+      "2023": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "2024": "https://www.reddit.com/r/anime/comments/1i2aflc/",
+      "2025": "https://www.reddit.com/r/anime/comments/1ql56sy/best_of_anime_2025_gigguk/"
+    },
+    "catalogExceptions": [
+      {
+        "malId": 53273,
+        "title": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+        "source": "https://myanimepulse.com/anime/53273/jojos-bizarre-adventure-stone-ocean-part-3",
+        "note": "AniList łączy drugą i trzecią paczkę w rekordzie 146722; MAL ma oddzielny rekord części trzeciej. Statusy pozostają oddzielne."
+      },
+      {
+        "title": "Neo Yokio",
+        "note": "Brak potwierdzonego wpisu MAL. Zachowano komediowy wybór Gigguka z jawnym brakiem mapowania."
+      }
+    ],
+    "notIncluded": [
+      {
+        "year": 2019,
+        "video": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+        "reason": "Anime in 2019 jest ogólnym przeglądem, nie filmem z serii Best of Anime."
+      },
+      {
+        "year": 2026,
+        "reason": "Nie znaleziono rocznego Best of Anime 2026 na dzień opracowania; rok jeszcze trwa."
+      },
+      {
+        "year": 2021,
+        "title": "Arcane",
+        "reason": "Gigguk dodatkowo nazywa Arcane animacją roku. Wspomniane w uwadze do rocznika, poza listą anime i bez pozornego odnośnika MAL."
+      },
+      {
+        "year": 2020,
+        "title": "VTuberzy / Hololive",
+        "reason": "Końcowy żartobliwy wybór dotyczy zjawiska internetowego, a nie konkretnego filmu lub serialu anime."
+      }
+    ]
+  },
+  "videos": [
+    {
+      "year": 2025,
+      "title": "Best of Anime 2025",
+      "url": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "youtubeId": "lymfyRBPd14",
+      "publishedAt": "2026-01-23"
+    },
+    {
+      "year": 2024,
+      "title": "Best of Anime 2024",
+      "url": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "youtubeId": "rJ1PLLPcWXs",
+      "publishedAt": "2025-01-15"
+    },
+    {
+      "year": 2023,
+      "title": "Best of Anime 2023",
+      "url": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "youtubeId": "JhVPJ2J0sz8",
+      "publishedAt": "2024-01-31"
+    },
+    {
+      "year": 2022,
+      "title": "Best of Anime 2022",
+      "url": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "youtubeId": "xXmXM0qRMbo",
+      "publishedAt": "2023-01-29"
+    },
+    {
+      "year": 2021,
+      "title": "Best of Anime 2021",
+      "url": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "youtubeId": "5ytnKggHwvY",
+      "publishedAt": "2022-01-23"
+    },
+    {
+      "year": 2020,
+      "title": "Best of Anime 2020",
+      "url": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "youtubeId": "F2Uau5wOngY",
+      "publishedAt": "2021-01-17"
+    },
+    {
+      "year": 2018,
+      "title": "Best of Anime 2018",
+      "url": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "youtubeId": "4kSjq35b5K4",
+      "publishedAt": "2019-01-24"
+    },
+    {
+      "year": 2017,
+      "title": "Best of Anime 2017",
+      "url": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "youtubeId": "NPA26WLzQ7Y",
+      "publishedAt": "2018-01-22"
+    }
+  ],
+  "rows": [
+    {
+      "id": "gigguk-2025-127",
+      "year": 2025,
+      "title": "Orb: On the Movements of the Earth",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "1",
+      "rank": 1,
+      "seconds": 1778,
+      "note": "Zwycięzca roku i osobisty faworyt dekady Gigguka.",
+      "malIds": [
+        52215
+      ],
+      "entries": [
+        {
+          "malId": 52215,
+          "title": "Orb: On the Movements of the Earth",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52215",
+          "catalogUrl": "https://anilist.co/anime/151514",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=1778s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-128",
+      "year": 2025,
+      "title": "My Hero Academia: Final Season",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "2",
+      "rank": 2,
+      "seconds": 1610,
+      "note": "Wyróżnienie finału i optymistycznej wizji bohaterstwa.",
+      "malIds": [
+        60098
+      ],
+      "entries": [
+        {
+          "malId": 60098,
+          "title": "My Hero Academia FINAL SEASON",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "malUrl": "https://myanimelist.net/anime/60098",
+          "catalogUrl": "https://anilist.co/anime/182896",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=1610s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-129",
+      "year": 2025,
+      "title": "Apocalypse Hotel",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "3",
+      "rank": 3,
+      "seconds": 1440,
+      "note": "Pochwała emocjonalnego rdzenia zaskakującej codzienności.",
+      "malIds": [
+        59675
+      ],
+      "entries": [
+        {
+          "malId": 59675,
+          "title": "Apocalypse Hotel",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/59675",
+          "catalogUrl": "https://anilist.co/anime/180675",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, SF, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=1440s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-130",
+      "year": 2025,
+      "title": "Uma Musume: Cinderella Gray — obie części",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "4",
+      "rank": 4,
+      "seconds": 1285,
+      "note": "Wyróżnienie sportowych emocji i widowiskowych wyścigów.",
+      "malIds": [
+        59636,
+        61930
+      ],
+      "entries": [
+        {
+          "malId": 59636,
+          "title": "Umamusume: Cinderella Gray",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/59636",
+          "catalogUrl": "https://anilist.co/anime/180516",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        },
+        {
+          "malId": 61930,
+          "title": "Umamusume: Cinderella Gray 2nd Cour",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/61930",
+          "catalogUrl": "https://anilist.co/anime/195240",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=1285s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-131",
+      "year": 2025,
+      "title": "Takopi’s Original Sin",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "5",
+      "rank": 5,
+      "seconds": 1113,
+      "note": "Wyróżnienie intensywnego dramatu o traumie.",
+      "malIds": [
+        60489
+      ],
+      "entries": [
+        {
+          "malId": 60489,
+          "title": "Takopi's Original Sin",
+          "year": 2025,
+          "format": "ONA",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/60489",
+          "catalogUrl": "https://anilist.co/anime/185407",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "dramat, psychologiczny, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=1113s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-132",
+      "year": 2025,
+      "title": "To Be Hero X",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "6",
+      "rank": 6,
+      "seconds": 983,
+      "note": "Pochwała chińskiej animacji i pomysłowego świata superbohaterów.",
+      "malIds": [
+        53447
+      ],
+      "entries": [
+        {
+          "malId": 53447,
+          "title": "To Be Hero X",
+          "year": 2025,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/53447",
+          "catalogUrl": "https://anilist.co/anime/156092",
+          "userStatus": "Dropped",
+          "statusLabel": "◐ Porzucone (6 odc.)",
+          "watchedEpisodes": 6,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Partial",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, dramat, tajemnica, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=983s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-133",
+      "year": 2025,
+      "title": "The Summer Hikaru Died",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "7",
+      "rank": 7,
+      "seconds": 865,
+      "note": "Wyróżnienie skutecznie budowanego horroru.",
+      "malIds": [
+        58913
+      ],
+      "entries": [
+        {
+          "malId": 58913,
+          "title": "The Summer Hikaru Died",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Supernatural",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/58913",
+          "catalogUrl": "https://anilist.co/anime/177689",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "horror, tajemnica, psychologiczny, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=865s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-134",
+      "year": 2025,
+      "title": "Medalist",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "8",
+      "rank": 8,
+      "seconds": 750,
+      "note": "Pochwała sportowej opowieści o wspieraniu rozwoju dziecka.",
+      "malIds": [
+        55318
+      ],
+      "entries": [
+        {
+          "malId": 55318,
+          "title": "Medalist",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55318",
+          "catalogUrl": "https://anilist.co/anime/165171",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, psychologiczny, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=750s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-135",
+      "year": 2025,
+      "title": "Clevatess",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "9",
+      "rank": 9,
+      "seconds": 636,
+      "note": "Wyróżnienie mrocznego fantasy i budowy świata.",
+      "malIds": [
+        59205
+      ],
+      "entries": [
+        {
+          "malId": 59205,
+          "title": "Clevatess",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/59205",
+          "catalogUrl": "https://anilist.co/anime/178869",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=636s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-136",
+      "year": 2025,
+      "title": "Gachiakuta",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "10",
+      "rank": 10,
+      "seconds": 506,
+      "note": "Pochwała projektów postaci i estetyki graffiti.",
+      "malIds": [
+        59062
+      ],
+      "entries": [
+        {
+          "malId": 59062,
+          "title": "Gachiakuta",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/59062",
+          "catalogUrl": "https://anilist.co/anime/178025",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 24,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=506s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-137",
+      "year": 2025,
+      "title": "Dandadan — sezon 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 294,
+      "note": "Doceniony rozwój postaci i wątku romantycznego.",
+      "malIds": [
+        60543
+      ],
+      "entries": [
+        {
+          "malId": 60543,
+          "title": "DAN DA DAN Season 2",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/60543",
+          "catalogUrl": "https://anilist.co/anime/185660",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, dramat, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=294s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-138",
+      "year": 2025,
+      "title": "The Apothecary Diaries — sezon 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 313,
+      "note": "Doceniona kontynuacja poza głównym rankingiem.",
+      "malIds": [
+        58514
+      ],
+      "entries": [
+        {
+          "malId": 58514,
+          "title": "The Apothecary Diaries Season 2",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/58514",
+          "catalogUrl": "https://anilist.co/anime/176301",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=313s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-139",
+      "year": 2025,
+      "title": "City the Animation",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 333,
+      "note": "Pochwała animacji; tytuł blisko głównej listy.",
+      "malIds": [
+        59898
+      ],
+      "entries": [
+        {
+          "malId": 59898,
+          "title": "CITY THE ANIMATION",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/59898",
+          "catalogUrl": "https://anilist.co/anime/181841",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=333s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-140",
+      "year": 2025,
+      "title": "Nukitashi the Animation",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 342,
+      "note": "Wyróżnienie skrajnie niepohamowanej konwencji.",
+      "malIds": [
+        57969
+      ],
+      "entries": [
+        {
+          "malId": 57969,
+          "title": "Nukitashi THE ANIMATION",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Romance"
+          ],
+          "malUrl": "https://myanimelist.net/anime/57969",
+          "catalogUrl": "https://anilist.co/anime/174188",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 11,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, dramat, ecchi",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=342s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-141",
+      "year": 2025,
+      "title": "Solo Leveling — sezon 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 354,
+      "note": "Pochwała skutecznej fantazji o rosnącej potędze.",
+      "malIds": [
+        58567
+      ],
+      "entries": [
+        {
+          "malId": 58567,
+          "title": "Solo Leveling Season 2 -Arise from the Shadow-",
+          "year": 2025,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/58567",
+          "catalogUrl": "https://anilist.co/anime/176496",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=354s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-142",
+      "year": 2025,
+      "title": "Chainsaw Man — The Movie: Reze Arc",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniony film poza rankingiem seriali",
+      "rank": null,
+      "seconds": 408,
+      "note": "Film mógłby znaleźć się w ścisłej czołówce.",
+      "malIds": [
+        57555
+      ],
+      "entries": [
+        {
+          "malId": 57555,
+          "title": "Chainsaw Man – The Movie: Reze Arc",
+          "year": 2025,
+          "format": "MOVIE",
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Romance",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/57555",
+          "catalogUrl": "https://anilist.co/anime/171627",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 1,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "film",
+      "genre": "akcja, dramat, horror, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=408s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2025-143",
+      "year": 2025,
+      "title": "100 Meters / Hyakuemu.",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniony film poza rankingiem seriali",
+      "rank": null,
+      "seconds": 427,
+      "note": "Film mógłby znaleźć się w ścisłej czołówce.",
+      "malIds": [
+        58919
+      ],
+      "entries": [
+        {
+          "malId": 58919,
+          "title": "100 METERS",
+          "year": 2025,
+          "format": "MOVIE",
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/58919",
+          "catalogUrl": "https://anilist.co/anime/177687",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "film",
+      "genre": "dramat, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=lymfyRBPd14",
+      "segmentUrl": "https://www.youtube.com/watch?v=lymfyRBPd14&t=427s",
+      "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
+    },
+    {
+      "id": "gigguk-2024-110",
+      "year": 2024,
+      "title": "Look Back",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "1",
+      "rank": 1,
+      "seconds": 1946,
+      "note": "Zwycięzca roku; opowieść o potrzebie tworzenia.",
+      "malIds": [
+        58125
+      ],
+      "entries": [
+        {
+          "malId": 58125,
+          "title": "LOOK BACK",
+          "year": 2024,
+          "format": "MOVIE",
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/58125",
+          "catalogUrl": "https://anilist.co/anime/174788",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": true,
+      "format": "film",
+      "genre": "dramat, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1946s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-111",
+      "year": 2024,
+      "title": "Dandadan — sezon 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "2",
+      "rank": 2,
+      "seconds": 1827,
+      "note": "Pochwała energii i nieprzewidywalnego mieszania gatunków.",
+      "malIds": [
+        57334
+      ],
+      "entries": [
+        {
+          "malId": 57334,
+          "title": "DAN DA DAN",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/57334",
+          "catalogUrl": "https://anilist.co/anime/171018",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, dramat, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1827s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-112",
+      "year": 2024,
+      "title": "Delicious in Dungeon / Dungeon Meshi",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "3",
+      "rank": 3,
+      "seconds": 1624,
+      "note": "Wyróżnienie spójnego świata i ekologii lochów.",
+      "malIds": [
+        52701
+      ],
+      "entries": [
+        {
+          "malId": 52701,
+          "title": "Delicious in Dungeon",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52701",
+          "catalogUrl": "https://anilist.co/anime/153518",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 24,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": true,
+      "format": "serial TV",
+      "genre": "przygodowy, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1624s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-113",
+      "year": 2024,
+      "title": "Orb: On the Movements of the Earth",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "4",
+      "rank": 4,
+      "seconds": 1482,
+      "note": "Wyróżnienie opowieści o poznaniu i poszukiwaniu prawdy.",
+      "malIds": [
+        52215
+      ],
+      "entries": [
+        {
+          "malId": 52215,
+          "title": "Orb: On the Movements of the Earth",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52215",
+          "catalogUrl": "https://anilist.co/anime/151514",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1482s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-114",
+      "year": 2024,
+      "title": "Girls Band Cry",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "5",
+      "rank": 5,
+      "seconds": 1319,
+      "note": "Pochwała konfliktów postaci i muzycznej ekspresji.",
+      "malIds": [
+        55102
+      ],
+      "entries": [
+        {
+          "malId": 55102,
+          "title": "Girls Band Cry",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55102",
+          "catalogUrl": "https://anilist.co/anime/164212",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, muzyczny, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1319s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-115",
+      "year": 2024,
+      "title": "The Dangers in My Heart — sezon 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "6",
+      "rank": 6,
+      "seconds": 1177,
+      "note": "Wyróżnienie rozwoju wzajemnego uczucia.",
+      "malIds": [
+        55690
+      ],
+      "entries": [
+        {
+          "malId": 55690,
+          "title": "The Dangers in My Heart Season 2",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55690",
+          "catalogUrl": "https://anilist.co/anime/166216",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1177s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-116",
+      "year": 2024,
+      "title": "Makeine: Too Many Losing Heroines!",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "7",
+      "rank": 7,
+      "seconds": 1010,
+      "note": "Pochwała romansu skupionego na odrzuconych bohaterkach.",
+      "malIds": [
+        57524
+      ],
+      "entries": [
+        {
+          "malId": 57524,
+          "title": "Makeine: Too Many Losing Heroines!",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/57524",
+          "catalogUrl": "https://anilist.co/anime/171457",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=1010s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-117",
+      "year": 2024,
+      "title": "Re:Zero — sezon 3",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "8",
+      "rank": 8,
+      "seconds": 877,
+      "note": "Wybór dotyczy części wyemitowanej w roku 2024.",
+      "malIds": [
+        54857
+      ],
+      "entries": [
+        {
+          "malId": 54857,
+          "title": "Re:ZERO -Starting Life in Another World- Season 3",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54857",
+          "catalogUrl": "https://anilist.co/anime/163134",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=877s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-118",
+      "year": 2024,
+      "title": "Dead Dead Demon’s Dededede Destruction — serial",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "9",
+      "rank": 9,
+      "seconds": 763,
+      "note": "Wyróżnienie codzienności w cieniu katastrofy.",
+      "malIds": [
+        58883
+      ],
+      "entries": [
+        {
+          "malId": 58883,
+          "title": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+          "year": 2024,
+          "format": "ONA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/58883",
+          "catalogUrl": "https://anilist.co/anime/177697",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "komedia, dramat, SF, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=763s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-119",
+      "year": 2024,
+      "title": "Brave Bang Bravern!",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "10",
+      "rank": 10,
+      "seconds": 624,
+      "note": "Pochwała radosnej, przesadzonej konwencji mecha.",
+      "malIds": [
+        55528
+      ],
+      "entries": [
+        {
+          "malId": 55528,
+          "title": "Brave Bang Bravern!",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55528",
+          "catalogUrl": "https://anilist.co/anime/165598",
+          "userStatus": "Dropped",
+          "statusLabel": "◐ Porzucone (1 odc.)",
+          "watchedEpisodes": 1,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Partial",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, mecha, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=624s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-120",
+      "year": 2024,
+      "title": "My Hero Academia — sezon 7",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "11",
+      "rank": 11,
+      "seconds": 505,
+      "note": "Wyróżnienie emocjonalnych historii postaci.",
+      "malIds": [
+        54789
+      ],
+      "entries": [
+        {
+          "malId": 54789,
+          "title": "My Hero Academia Season 7",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54789",
+          "catalogUrl": "https://anilist.co/anime/163139",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=505s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-121",
+      "year": 2024,
+      "title": "Oshi no Ko — sezon 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 313,
+      "note": "Pochwała teatralnego wątku i reżyserii.",
+      "malIds": [
+        55791
+      ],
+      "entries": [
+        {
+          "malId": 55791,
+          "title": "OSHI NO KO Season 2",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55791",
+          "catalogUrl": "https://anilist.co/anime/166531",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica, psychologiczny, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=313s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-122",
+      "year": 2024,
+      "title": "Mushoku Tensei — sezon 2, część 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 353,
+      "note": "Wyróżnienie z zastrzeżeniami do części wydarzeń.",
+      "malIds": [
+        55888
+      ],
+      "entries": [
+        {
+          "malId": 55888,
+          "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55888",
+          "catalogUrl": "https://anilist.co/anime/166873",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, ecchi, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=353s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-123",
+      "year": 2024,
+      "title": "KonoSuba — sezon 3",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 382,
+      "note": "Pochwała wciąż skutecznej chemii obsady.",
+      "malIds": [
+        49458
+      ],
+      "entries": [
+        {
+          "malId": 49458,
+          "title": "KONOSUBA -God's blessing on this wonderful world! 3",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49458",
+          "catalogUrl": "https://anilist.co/anime/136804",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 11,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, ecchi",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=382s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-124",
+      "year": 2024,
+      "title": "Demon Slayer: Hashira Training Arc",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 382,
+      "note": "Pochwała wyróżniającego się odcinka przy słabszej ocenie sezonu.",
+      "malIds": [
+        55701
+      ],
+      "entries": [
+        {
+          "malId": 55701,
+          "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+          "year": 2024,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/55701",
+          "catalogUrl": "https://anilist.co/anime/166240",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 8,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=382s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-125",
+      "year": 2024,
+      "title": "The Apothecary Diaries — dalszy ciąg sezonu 1",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 406,
+      "note": "Doceniona kontynuacja pozycji z poprzedniego rankingu.",
+      "malIds": [
+        54492
+      ],
+      "entries": [
+        {
+          "malId": 54492,
+          "title": "The Apothecary Diaries",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54492",
+          "catalogUrl": "https://anilist.co/anime/161645",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=406s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2024-126",
+      "year": 2024,
+      "title": "Frieren: Beyond Journey’s End — dalszy ciąg",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Honorable mention",
+      "rank": null,
+      "seconds": 406,
+      "note": "Doceniona kontynuacja pozycji z poprzedniego rankingu.",
+      "malIds": [
+        52991
+      ],
+      "entries": [
+        {
+          "malId": 52991,
+          "title": "Frieren: Beyond Journey’s End",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52991",
+          "catalogUrl": "https://anilist.co/anime/154587",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 28,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": true,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs",
+      "segmentUrl": "https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=406s",
+      "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
+    },
+    {
+      "id": "gigguk-2023-93",
+      "year": 2023,
+      "title": "Vinland Saga — sezon 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "1",
+      "rank": 1,
+      "seconds": 1719,
+      "note": "Główny zwycięzca za przemianę bohatera i temat odkupienia.",
+      "malIds": [
+        49387
+      ],
+      "entries": [
+        {
+          "malId": 49387,
+          "title": "Vinland Saga Season 2",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49387",
+          "catalogUrl": "https://anilist.co/anime/136430",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": true,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=1719s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-94",
+      "year": 2023,
+      "title": "Frieren: Beyond Journey’s End",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "2",
+      "rank": 2,
+      "seconds": 1582,
+      "note": "Wyróżnienie refleksyjnego podejścia do fantasy.",
+      "malIds": [
+        52991
+      ],
+      "entries": [
+        {
+          "malId": 52991,
+          "title": "Frieren: Beyond Journey’s End",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52991",
+          "catalogUrl": "https://anilist.co/anime/154587",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 28,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": true,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=1582s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-95",
+      "year": 2023,
+      "title": "Jujutsu Kaisen — sezon 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "3",
+      "rank": 3,
+      "seconds": 1453,
+      "note": "Pochwała inscenizacji i animacji walk.",
+      "malIds": [
+        51009
+      ],
+      "entries": [
+        {
+          "malId": 51009,
+          "title": "JUJUTSU KAISEN Season 2",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/51009",
+          "catalogUrl": "https://anilist.co/anime/145064",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 23,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=1453s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-96",
+      "year": 2023,
+      "title": "Pluto",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "4",
+      "rank": 4,
+      "seconds": 1291,
+      "note": "Wyróżnienie scenariusza i tajemnicy science fiction.",
+      "malIds": [
+        35737
+      ],
+      "entries": [
+        {
+          "malId": 35737,
+          "title": "PLUTO",
+          "year": 2023,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35737",
+          "catalogUrl": "https://anilist.co/anime/99088",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, dramat, mecha, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=1291s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-97",
+      "year": 2023,
+      "title": "The Apothecary Diaries — sezon 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "5",
+      "rank": 5,
+      "seconds": 1173,
+      "note": "Wyróżnienie bohaterki i dworskich zagadek.",
+      "malIds": [
+        54492
+      ],
+      "entries": [
+        {
+          "malId": 54492,
+          "title": "The Apothecary Diaries",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54492",
+          "catalogUrl": "https://anilist.co/anime/161645",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=1173s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-98",
+      "year": 2023,
+      "title": "Heavenly Delusion / Tengoku Daimakyou",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "6",
+      "rank": 6,
+      "seconds": 1024,
+      "note": "Pochwała opowieści pozwalającej widzowi samodzielnie łączyć wskazówki.",
+      "malIds": [
+        53393
+      ],
+      "entries": [
+        {
+          "malId": 53393,
+          "title": "Tengoku Daimakyo",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/53393",
+          "catalogUrl": "https://anilist.co/anime/155783",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, tajemnica, SF, Thriller",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=1024s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-99",
+      "year": 2023,
+      "title": "Skip and Loafer",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "7",
+      "rank": 7,
+      "seconds": 866,
+      "note": "Wyróżnienie naturalnej, pogodnej opowieści szkolnej.",
+      "malIds": [
+        50416
+      ],
+      "entries": [
+        {
+          "malId": 50416,
+          "title": "Skip and Loafer",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50416",
+          "catalogUrl": "https://anilist.co/anime/141911",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=866s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-100",
+      "year": 2023,
+      "title": "Attack on Titan: The Final Chapters",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "8",
+      "rank": 8,
+      "seconds": 783,
+      "note": "Docenienie finału i dorobku całej serii.",
+      "malIds": [
+        51535
+      ],
+      "entries": [
+        {
+          "malId": 51535,
+          "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+          "year": 2023,
+          "format": "SPECIAL",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Psychological"
+          ],
+          "malUrl": "https://myanimelist.net/anime/51535",
+          "catalogUrl": "https://anilist.co/anime/146984",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial — odcinki specjalne",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=783s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-101",
+      "year": 2023,
+      "title": "The Eminence in Shadow — sezony 1–2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "9",
+      "rank": 9,
+      "seconds": 689,
+      "note": "Wyróżnienie świadomej zabawy schematami isekai.",
+      "malIds": [
+        48316,
+        54595
+      ],
+      "entries": [
+        {
+          "malId": 48316,
+          "title": "The Eminence in Shadow",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48316",
+          "catalogUrl": "https://anilist.co/anime/130298",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        },
+        {
+          "malId": 54595,
+          "title": "The Eminence in Shadow Season 2",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54595",
+          "catalogUrl": "https://anilist.co/anime/161964",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=689s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-102",
+      "year": 2023,
+      "title": "Oshi no Ko — sezon 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "10",
+      "rank": 10,
+      "seconds": 564,
+      "note": "Wyróżnienie opowieści o japońskiej branży rozrywkowej.",
+      "malIds": [
+        52034
+      ],
+      "entries": [
+        {
+          "malId": 52034,
+          "title": "OSHI NO KO",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52034",
+          "catalogUrl": "https://anilist.co/anime/150672",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica, psychologiczny, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=564s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-103",
+      "year": 2023,
+      "title": "Trigun Stampede",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "11",
+      "rank": 11,
+      "seconds": 413,
+      "note": "Pochwała animacji 3D i śmiałej reinterpretacji.",
+      "malIds": [
+        52093
+      ],
+      "entries": [
+        {
+          "malId": 52093,
+          "title": "TRIGUN STAMPEDE",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52093",
+          "catalogUrl": "https://anilist.co/anime/151040",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=413s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-104",
+      "year": 2023,
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "12",
+      "rank": 12,
+      "seconds": 314,
+      "note": "Wyróżnienie absurdalnej parodii haremu.",
+      "malIds": [
+        54714
+      ],
+      "entries": [
+        {
+          "malId": 54714,
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54714",
+          "catalogUrl": "https://anilist.co/anime/162694",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, ecchi, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=314s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-105",
+      "year": 2023,
+      "title": "Zom 100: Bucket List of the Dead",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "13",
+      "rank": 13,
+      "seconds": 229,
+      "note": "Wyróżnienie pomysłu i znakomitego pierwszego odcinka.",
+      "malIds": [
+        54112
+      ],
+      "entries": [
+        {
+          "malId": 54112,
+          "title": "Zom 100: Bucket List of the Dead",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Horror",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/54112",
+          "catalogUrl": "https://anilist.co/anime/159831",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, horror",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=229s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-106",
+      "year": 2023,
+      "title": "Hell’s Paradise",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżnienie poza główną listą",
+      "rank": null,
+      "seconds": 126,
+      "note": "Krótka pozytywna wzmianka przed rankingiem.",
+      "malIds": [
+        46569
+      ],
+      "entries": [
+        {
+          "malId": 46569,
+          "title": "Hell’s Paradise",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mystery",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/46569",
+          "catalogUrl": "https://anilist.co/anime/128893",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, tajemnica, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=126s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-107",
+      "year": 2023,
+      "title": "Mashle: Magic and Muscles — sezon 1",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżnienie poza główną listą",
+      "rank": null,
+      "seconds": 126,
+      "note": "Krótka pozytywna wzmianka przed rankingiem.",
+      "malIds": [
+        52211
+      ],
+      "entries": [
+        {
+          "malId": 52211,
+          "title": "MASHLE: MAGIC AND MUSCLES",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52211",
+          "catalogUrl": "https://anilist.co/anime/151801",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=126s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-108",
+      "year": 2023,
+      "title": "Undead Unluck",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżnienie poza główną listą",
+      "rank": null,
+      "seconds": 135,
+      "note": "Krótka pozytywna wzmianka przed rankingiem.",
+      "malIds": [
+        52741
+      ],
+      "entries": [
+        {
+          "malId": 52741,
+          "title": "Undead Unluck",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/52741",
+          "catalogUrl": "https://anilist.co/anime/154116",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, SF, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=135s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2023-109",
+      "year": 2023,
+      "title": "Mushoku Tensei — sezon 2, część 1",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżnienie poza główną listą",
+      "rank": null,
+      "seconds": 135,
+      "note": "Wzmianka o kontynuacji ulubionej historii isekai.",
+      "malIds": [
+        51179
+      ],
+      "entries": [
+        {
+          "malId": 51179,
+          "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
+          "year": 2023,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/51179",
+          "catalogUrl": "https://anilist.co/anime/146065",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, ecchi, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
+      "segmentUrl": "https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=135s",
+      "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
+    },
+    {
+      "id": "gigguk-2022-72",
+      "year": 2022,
+      "title": "Made in Abyss: The Golden City of the Scorching Sun",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "1",
+      "rank": 1,
+      "seconds": 1559,
+      "note": "Główny zwycięzca rocznego rankingu.",
+      "malIds": [
+        41084
+      ],
+      "entries": [
+        {
+          "malId": 41084,
+          "title": "Made in Abyss: The Golden City of the Scorching Sun",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/41084",
+          "catalogUrl": "https://anilist.co/anime/114745",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, fantasy, horror",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=1559s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-73",
+      "year": 2022,
+      "title": "Mob Psycho 100 III",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "2",
+      "rank": 2,
+      "seconds": 1456,
+      "note": "Wyróżnienie domknięcia historii bohaterów.",
+      "malIds": [
+        50172
+      ],
+      "entries": [
+        {
+          "malId": 50172,
+          "title": "Mob Psycho 100 III",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50172",
+          "catalogUrl": "https://anilist.co/anime/140439",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, dramat, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=1456s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-74",
+      "year": 2022,
+      "title": "Cyberpunk: Edgerunners",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "3",
+      "rank": 3,
+      "seconds": 1374,
+      "note": "Wyróżnienie intensywnej opowieści studia Trigger.",
+      "malIds": [
+        42310
+      ],
+      "entries": [
+        {
+          "malId": 42310,
+          "title": "Cyberpunk: Edgerunners",
+          "year": 2022,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/42310",
+          "catalogUrl": "https://anilist.co/anime/120377",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 10,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": true,
+      "format": "serial ONA",
+      "genre": "akcja, dramat, psychologiczny, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=1374s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-75",
+      "year": 2022,
+      "title": "Bocchi the Rock!",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "4",
+      "rank": 4,
+      "seconds": 1219,
+      "note": "Wyróżnienie pomysłowej animacji i komedii społecznego lęku.",
+      "malIds": [
+        47917
+      ],
+      "entries": [
+        {
+          "malId": 47917,
+          "title": "BOCCHI THE ROCK!",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/47917",
+          "catalogUrl": "https://anilist.co/anime/130003",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": true,
+      "format": "serial TV",
+      "genre": "komedia, muzyczny, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=1219s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-76",
+      "year": 2022,
+      "title": "Chainsaw Man",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "5",
+      "rank": 5,
+      "seconds": 1092,
+      "note": "Wybór z głównego rankingu za rok 2022.",
+      "malIds": [
+        44511
+      ],
+      "entries": [
+        {
+          "malId": 44511,
+          "title": "Chainsaw Man",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/44511",
+          "catalogUrl": "https://anilist.co/anime/127230",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, horror, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=1092s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-77",
+      "year": 2022,
+      "title": "Kaguya-sama: Love Is War — Ultra Romantic",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "6",
+      "rank": 6,
+      "seconds": 989,
+      "note": "Wyróżnienie rozwoju postaci i romantycznej kulminacji.",
+      "malIds": [
+        43608
+      ],
+      "entries": [
+        {
+          "malId": 43608,
+          "title": "Kaguya-sama: Love is War -Ultra Romantic-",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/43608",
+          "catalogUrl": "https://anilist.co/anime/125367",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, psychologiczny, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=989s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-78",
+      "year": 2022,
+      "title": "Mobile Suit Gundam: The Witch from Mercury — sezon 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "7",
+      "rank": 7,
+      "seconds": 876,
+      "note": "Pochwała przystępnego nowego wejścia do Gundama.",
+      "malIds": [
+        49828
+      ],
+      "entries": [
+        {
+          "malId": 49828,
+          "title": "Mobile Suit Gundam: The Witch from Mercury",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49828",
+          "catalogUrl": "https://anilist.co/anime/139274",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, mecha, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=876s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-79",
+      "year": 2022,
+      "title": "Spy x Family — sezon 1, obie części",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "8",
+      "rank": 8,
+      "seconds": 821,
+      "note": "Wyróżnienie ciepłej komedii rodzinnej.",
+      "malIds": [
+        50265,
+        50602
+      ],
+      "entries": [
+        {
+          "malId": 50265,
+          "title": "SPY x FAMILY",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50265",
+          "catalogUrl": "https://anilist.co/anime/140960",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        },
+        {
+          "malId": 50602,
+          "title": "SPY x FAMILY Cour 2",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50602",
+          "catalogUrl": "https://anilist.co/anime/142838",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, obyczajowy, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=821s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-80",
+      "year": 2022,
+      "title": "Demon Slayer: Entertainment District Arc",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "9",
+      "rank": 9,
+      "seconds": 723,
+      "note": "Pochwała widowiska i realizacji walk.",
+      "malIds": [
+        47778
+      ],
+      "entries": [
+        {
+          "malId": 47778,
+          "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/47778",
+          "catalogUrl": "https://anilist.co/anime/142329",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 11,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, fantasy, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=723s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-81",
+      "year": 2022,
+      "title": "Summer Time Rendering",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "10",
+      "rank": 10,
+      "seconds": 652,
+      "note": "Wyróżnienie wciągającej zagadki i mocnego otwarcia.",
+      "malIds": [
+        47194
+      ],
+      "entries": [
+        {
+          "malId": 47194,
+          "title": "Summer Time Rendering",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Supernatural",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/47194",
+          "catalogUrl": "https://anilist.co/anime/129201",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 25,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, tajemnica, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=652s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-82",
+      "year": 2022,
+      "title": "Call of the Night",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "11",
+      "rank": 11,
+      "seconds": 593,
+      "note": "Wyróżnienie nocnej atmosfery i muzyki.",
+      "malIds": [
+        50346
+      ],
+      "entries": [
+        {
+          "malId": 50346,
+          "title": "Call of the Night",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50346",
+          "catalogUrl": "https://anilist.co/anime/141391",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, psychologiczny, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=593s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-83",
+      "year": 2022,
+      "title": "Blue Lock",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "12",
+      "rank": 12,
+      "seconds": 528,
+      "note": "Pochwała rywalizacji sportowej w konwencji battle royale.",
+      "malIds": [
+        49596
+      ],
+      "entries": [
+        {
+          "malId": 49596,
+          "title": "BLUE LOCK",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49596",
+          "catalogUrl": "https://anilist.co/anime/137822",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 24,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=528s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-84",
+      "year": 2022,
+      "title": "Aoashi",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "13",
+      "rank": 13,
+      "seconds": 509,
+      "note": "Wyróżnienie mniej nagłośnionego serialu piłkarskiego.",
+      "malIds": [
+        49052
+      ],
+      "entries": [
+        {
+          "malId": 49052,
+          "title": "Aoashi",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49052",
+          "catalogUrl": "https://anilist.co/anime/134732",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 24,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=509s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-85",
+      "year": 2022,
+      "title": "My Dress-Up Darling",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "14",
+      "rank": 14,
+      "seconds": null,
+      "note": "Pozycja potwierdzona spisem rankingu w dyskusji pod filmem.",
+      "malIds": [
+        48736
+      ],
+      "entries": [
+        {
+          "malId": 48736,
+          "title": "My Dress-Up Darling",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48736",
+          "catalogUrl": "https://anilist.co/anime/132405",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, ecchi, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-86",
+      "year": 2022,
+      "title": "Lycoris Recoil",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "15",
+      "rank": 15,
+      "seconds": 416,
+      "note": "Wyróżnienie połączenia codzienności i sensacyjnej akcji.",
+      "malIds": [
+        50709
+      ],
+      "entries": [
+        {
+          "malId": 50709,
+          "title": "Lycoris Recoil",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50709",
+          "catalogUrl": "https://anilist.co/anime/143270",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=416s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-87",
+      "year": 2022,
+      "title": "Ya Boy Kongming!",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "16",
+      "rank": 16,
+      "seconds": 327,
+      "note": "Wyróżnienie udanego połączenia muzyki i historycznego absurdu.",
+      "malIds": [
+        50380
+      ],
+      "entries": [
+        {
+          "malId": 50380,
+          "title": "Ya Boy Kongming!",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50380",
+          "catalogUrl": "https://anilist.co/anime/141774",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, dramat, muzyczny, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=327s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-88",
+      "year": 2022,
+      "title": "Birdie Wing: Golf Girls’ Story",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "17",
+      "rank": 17,
+      "seconds": 262,
+      "note": "Pochwała przesadzonej, nieprzewidywalnej sportowej rozrywki.",
+      "malIds": [
+        50248
+      ],
+      "entries": [
+        {
+          "malId": 50248,
+          "title": "BIRDIE WING -Golf Girls' Story-",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Slice of Life",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/50248",
+          "catalogUrl": "https://anilist.co/anime/140830",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, obyczajowy, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=262s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-89",
+      "year": 2022,
+      "title": "My Hero Academia — sezon 6",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 106,
+      "note": "Pozytywna wzmianka przed głównym rankingiem.",
+      "malIds": [
+        49918
+      ],
+      "entries": [
+        {
+          "malId": 49918,
+          "title": "My Hero Academia Season 6",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49918",
+          "catalogUrl": "https://anilist.co/anime/139630",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=106s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-90",
+      "year": 2022,
+      "title": "JoJo’s Bizarre Adventure: Stone Ocean — części 2–3",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 106,
+      "note": "Pozytywna wzmianka przed głównym rankingiem.",
+      "malIds": [
+        51367,
+        53273
+      ],
+      "entries": [
+        {
+          "malId": 51367,
+          "title": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+          "year": 2022,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/51367",
+          "catalogUrl": "https://anilist.co/anime/146722",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        },
+        {
+          "malId": 53273,
+          "title": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+          "year": 2022,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/53273",
+          "catalogUrl": "https://myanimepulse.com/anime/53273/jojos-bizarre-adventure-stone-ocean-part-3",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, przygodowy, dramat, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=106s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-91",
+      "year": 2022,
+      "title": "Bleach: Thousand-Year Blood War — część 1",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 115,
+      "note": "Doceniony powrót serii, bez szerszego omówienia.",
+      "malIds": [
+        41467
+      ],
+      "entries": [
+        {
+          "malId": 41467,
+          "title": "BLEACH: Thousand-Year Blood War",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/41467",
+          "catalogUrl": "https://anilist.co/anime/116674",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=115s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2022-92",
+      "year": 2022,
+      "title": "Attack on Titan: The Final Season — część 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 125,
+      "note": "Pochwała zwrotów fabularnych przed głównym rankingiem.",
+      "malIds": [
+        48583
+      ],
+      "entries": [
+        {
+          "malId": 48583,
+          "title": "Attack on Titan Final Season Part 2",
+          "year": 2022,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Psychological"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48583",
+          "catalogUrl": "https://anilist.co/anime/131681",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo",
+      "segmentUrl": "https://www.youtube.com/watch?v=xXmXM0qRMbo&t=125s",
+      "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
+    },
+    {
+      "id": "gigguk-2021-52",
+      "year": 2021,
+      "title": "Mushoku Tensei — sezon 1, obie części",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "1",
+      "rank": 1,
+      "seconds": 1465,
+      "note": "Zwycięzca za skalę przygody i przekonujący świat.",
+      "malIds": [
+        39535,
+        45576
+      ],
+      "entries": [
+        {
+          "malId": 39535,
+          "title": "Mushoku Tensei: Jobless Reincarnation",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39535",
+          "catalogUrl": "https://anilist.co/anime/108465",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 11,
+          "completed": true
+        },
+        {
+          "malId": 45576,
+          "title": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/45576",
+          "catalogUrl": "https://anilist.co/anime/127720",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, ecchi, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=1465s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-53",
+      "year": 2021,
+      "title": "Attack on Titan: The Final Season — część 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "2",
+      "rank": 2,
+      "seconds": 1365,
+      "note": "Wyróżnienie ambitnego nowego kierunku opowieści.",
+      "malIds": [
+        40028
+      ],
+      "entries": [
+        {
+          "malId": 40028,
+          "title": "Attack on Titan Final Season",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40028",
+          "catalogUrl": "https://anilist.co/anime/110277",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=1365s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-54",
+      "year": 2021,
+      "title": "Odd Taxi",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "3",
+      "rank": 3,
+      "seconds": 1260,
+      "note": "Pochwała dialogów i precyzyjnie połączonych wątków.",
+      "malIds": [
+        46102
+      ],
+      "entries": [
+        {
+          "malId": 46102,
+          "title": "ODDTAXI",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/46102",
+          "catalogUrl": "https://anilist.co/anime/128547",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": true,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica, psychologiczny, Thriller",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=1260s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-55",
+      "year": 2021,
+      "title": "Ranking of Kings",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "4",
+      "rank": 4,
+      "seconds": 1147,
+      "note": "Wyróżnienie dojrzałości ukrytej pod baśniową formą.",
+      "malIds": [
+        40834
+      ],
+      "entries": [
+        {
+          "malId": 40834,
+          "title": "Ranking of Kings",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40834",
+          "catalogUrl": "https://anilist.co/anime/113717",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 23,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=1147s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-56",
+      "year": 2021,
+      "title": "Link Click",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "5",
+      "rank": 5,
+      "seconds": 1080,
+      "note": "Wyróżnienie pomysłu na podróże w czasie.",
+      "malIds": [
+        44074
+      ],
+      "entries": [
+        {
+          "malId": 44074,
+          "title": "Link Click",
+          "year": 2021,
+          "format": "ONA",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Supernatural",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/44074",
+          "catalogUrl": "https://anilist.co/anime/126403",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "dramat, tajemnica, nadprzyrodzony, Thriller",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=1080s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-57",
+      "year": 2021,
+      "title": "To Your Eternity",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "6",
+      "rank": 6,
+      "seconds": 1006,
+      "note": "Pochwała emocjonalnej opowieści o człowieczeństwie.",
+      "malIds": [
+        41025
+      ],
+      "entries": [
+        {
+          "malId": 41025,
+          "title": "To Your Eternity",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/41025",
+          "catalogUrl": "https://anilist.co/anime/114535",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, fantasy, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=1006s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-58",
+      "year": 2021,
+      "title": "Vivy: Fluorite Eye’s Song",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "7",
+      "rank": 7,
+      "seconds": 935,
+      "note": "Wyróżnienie widowiskowej realizacji oryginalnej historii SF.",
+      "malIds": [
+        46095
+      ],
+      "entries": [
+        {
+          "malId": 46095,
+          "title": "Vivy -Fluorite Eye's Song-",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Music",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/46095",
+          "catalogUrl": "https://anilist.co/anime/128546",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, muzyczny, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=935s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-59",
+      "year": 2021,
+      "title": "JoJo’s Bizarre Adventure: Stone Ocean — część 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "8",
+      "rank": 8,
+      "seconds": 917,
+      "note": "Osobny, krótki segment w rankingu.",
+      "malIds": [
+        48661
+      ],
+      "entries": [
+        {
+          "malId": 48661,
+          "title": "JoJo's Bizarre Adventure: STONE OCEAN",
+          "year": 2021,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48661",
+          "catalogUrl": "https://anilist.co/anime/131942",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, przygodowy, dramat, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=917s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-60",
+      "year": 2021,
+      "title": "86 — obie części",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "9",
+      "rank": 9,
+      "seconds": 838,
+      "note": "Wyróżnienie dramatu wojennego i powrotu militarnego mecha.",
+      "malIds": [
+        41457,
+        48569
+      ],
+      "entries": [
+        {
+          "malId": 41457,
+          "title": "86 EIGHTY-SIX",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/41457",
+          "catalogUrl": "https://anilist.co/anime/116589",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 11,
+          "completed": true
+        },
+        {
+          "malId": 48569,
+          "title": "86 EIGHTY-SIX Part 2",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48569",
+          "catalogUrl": "https://anilist.co/anime/131586",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, mecha, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=838s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-61",
+      "year": 2021,
+      "title": "Sonny Boy",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "10",
+      "rank": 10,
+      "seconds": 738,
+      "note": "Wyróżnienie nastroju i trwałego wrażenia po seansie.",
+      "malIds": [
+        48849
+      ],
+      "entries": [
+        {
+          "malId": 48849,
+          "title": "Sonny Boy",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48849",
+          "catalogUrl": "https://anilist.co/anime/132126",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica, psychologiczny, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=738s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-64",
+      "year": 2021,
+      "title": "Nomad: Megalo Box 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "13",
+      "rank": 13,
+      "seconds": 551,
+      "note": "Wyróżnienie sequela rozwijającego dramat postaci.",
+      "malIds": [
+        40729
+      ],
+      "entries": [
+        {
+          "malId": 40729,
+          "title": "MEGALOBOX 2: NOMAD",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40729",
+          "catalogUrl": "https://anilist.co/anime/113359",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, SF, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=551s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-65",
+      "year": 2021,
+      "title": "Star Wars: Visions — tom 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "14",
+      "rank": 14,
+      "seconds": 474,
+      "note": "Pochwała swobody twórczej japońskich studiów.",
+      "malIds": [
+        49357
+      ],
+      "entries": [
+        {
+          "malId": 49357,
+          "title": "Star Wars: Visions",
+          "year": 2021,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/49357",
+          "catalogUrl": "https://anilist.co/anime/138060",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, przygodowy, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=474s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-66",
+      "year": 2021,
+      "title": "Horimiya",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "15",
+      "rank": 15,
+      "seconds": 390,
+      "note": "Wyróżnienie prostoty i ciepła romansu.",
+      "malIds": [
+        42897
+      ],
+      "entries": [
+        {
+          "malId": 42897,
+          "title": "Horimiya",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/42897",
+          "catalogUrl": "https://anilist.co/anime/124080",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=390s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-62",
+      "year": 2021,
+      "title": "Don’t Toy with Me, Miss Nagatoro",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "11–12",
+      "rank": null,
+      "seconds": 634,
+      "note": "Wspólny segment z Komi; bez rozstrzygania kolejności.",
+      "malIds": [
+        42361
+      ],
+      "entries": [
+        {
+          "malId": 42361,
+          "title": "DON'T TOY WITH ME, MISS NAGATORO",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/42361",
+          "catalogUrl": "https://anilist.co/anime/120697",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=634s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-63",
+      "year": 2021,
+      "title": "Komi Can’t Communicate — sezon 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "11–12",
+      "rank": null,
+      "seconds": 634,
+      "note": "Wspólny segment z Nagatoro; bez rozstrzygania kolejności.",
+      "malIds": [
+        48926
+      ],
+      "entries": [
+        {
+          "malId": 48926,
+          "title": "Komi Can’t Communicate",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/48926",
+          "catalogUrl": "https://anilist.co/anime/133965",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=634s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-67",
+      "year": 2021,
+      "title": "Beastars — sezon 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 23,
+      "note": "Doceniony sequel bez dłuższego omówienia.",
+      "malIds": [
+        40935
+      ],
+      "entries": [
+        {
+          "malId": 40935,
+          "title": "BEASTARS Season 2",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40935",
+          "catalogUrl": "https://anilist.co/anime/114194",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica, psychologiczny, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=23s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-68",
+      "year": 2021,
+      "title": "Miss Kobayashi’s Dragon Maid S",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 33,
+      "note": "Doceniony sequel bez dłuższego omówienia.",
+      "malIds": [
+        39247
+      ],
+      "entries": [
+        {
+          "malId": 39247,
+          "title": "Miss Kobayashi's Dragon Maid S",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39247",
+          "catalogUrl": "https://anilist.co/anime/107717",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, fantasy, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=33s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-69",
+      "year": 2021,
+      "title": "That Time I Got Reincarnated as a Slime — sezon 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 33,
+      "note": "Doceniony sequel bez dłuższego omówienia.",
+      "malIds": [
+        39551,
+        41487
+      ],
+      "entries": [
+        {
+          "malId": 39551,
+          "title": "That Time I Got Reincarnated as a Slime Season 2",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39551",
+          "catalogUrl": "https://anilist.co/anime/108511",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        },
+        {
+          "malId": 41487,
+          "title": "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/41487",
+          "catalogUrl": "https://anilist.co/anime/116742",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=33s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-70",
+      "year": 2021,
+      "title": "Jujutsu Kaisen — dalszy ciąg sezonu 1",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 33,
+      "note": "Kontynuacja sezonu omówionego w poprzednim zestawieniu.",
+      "malIds": [
+        40748
+      ],
+      "entries": [
+        {
+          "malId": 40748,
+          "title": "JUJUTSU KAISEN",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40748",
+          "catalogUrl": "https://anilist.co/anime/113415",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 24,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=33s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2021-71",
+      "year": 2021,
+      "title": "Re:Zero — sezon 2, część 2",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Wyróżniona kontynuacja poza rankingiem",
+      "rank": null,
+      "seconds": 42,
+      "note": "Dalszy ciąg zwycięzcy poprzedniego roku.",
+      "malIds": [
+        42203
+      ],
+      "entries": [
+        {
+          "malId": 42203,
+          "title": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+          "year": 2021,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/42203",
+          "catalogUrl": "https://anilist.co/anime/119661",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY",
+      "segmentUrl": "https://www.youtube.com/watch?v=5ytnKggHwvY&t=42s",
+      "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
+    },
+    {
+      "id": "gigguk-2020-42",
+      "year": 2020,
+      "title": "Re:Zero — sezon 2, część 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Anime roku",
+      "rank": null,
+      "seconds": 1267,
+      "note": "Wybór za emocjonalne kulminacje i rozwinięcie Subaru.",
+      "malIds": [
+        39587
+      ],
+      "entries": [
+        {
+          "malId": 39587,
+          "title": "Re:ZERO -Starting Life in Another World- Season 2",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39587",
+          "catalogUrl": "https://anilist.co/anime/108632",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Plan to Watch",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=1267s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-43",
+      "year": 2020,
+      "title": "Dorohedoro",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 1094,
+      "note": "Wyróżnienie osobliwego świata i konsekwentnej atmosfery.",
+      "malIds": [
+        38668
+      ],
+      "entries": [
+        {
+          "malId": 38668,
+          "title": "Dorohedoro",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38668",
+          "catalogUrl": "https://anilist.co/anime/105228",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=1094s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-44",
+      "year": 2020,
+      "title": "Great Pretender",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 892,
+      "note": "Wyróżnienie stylowej opowieści o oszustach.",
+      "malIds": [
+        40052
+      ],
+      "entries": [
+        {
+          "malId": 40052,
+          "title": "Great Pretender",
+          "year": 2020,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40052",
+          "catalogUrl": "https://anilist.co/anime/110349",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, komedia, dramat, Thriller",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=892s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-45",
+      "year": 2020,
+      "title": "Keep Your Hands Off Eizouken!",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 799,
+      "note": "Pochwała twórczej pasji i opowieści o animacji.",
+      "malIds": [
+        39792
+      ],
+      "entries": [
+        {
+          "malId": 39792,
+          "title": "Keep Your Hands Off Eizouken!",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39792",
+          "catalogUrl": "https://anilist.co/anime/109298",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, komedia, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=799s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-46",
+      "year": 2020,
+      "title": "Rent-a-Girlfriend",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 644,
+      "note": "Wybór za rozrywkowy potencjał melodramatycznego chaosu.",
+      "malIds": [
+        40839
+      ],
+      "entries": [
+        {
+          "malId": 40839,
+          "title": "Rent-a-Girlfriend",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40839",
+          "catalogUrl": "https://anilist.co/anime/113813",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, dramat, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=644s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-47",
+      "year": 2020,
+      "title": "Jujutsu Kaisen",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 569,
+      "note": "Wyróżnienie bohaterów, walk i obiecującego początku serii.",
+      "malIds": [
+        40748
+      ],
+      "entries": [
+        {
+          "malId": 40748,
+          "title": "JUJUTSU KAISEN",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40748",
+          "catalogUrl": "https://anilist.co/anime/113415",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 24,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=569s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-48",
+      "year": 2020,
+      "title": "A Certain Scientific Railgun T",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 487,
+      "note": "Wyróżnienie najbardziej udanej ekranowej odsłony tego uniwersum.",
+      "malIds": [
+        38481
+      ],
+      "entries": [
+        {
+          "malId": 38481,
+          "title": "A Certain Scientific Railgun T",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38481",
+          "catalogUrl": "https://anilist.co/anime/104462",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=487s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-49",
+      "year": 2020,
+      "title": "Kaguya-sama: Love Is War? — sezon 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Krótkie wskazanie w zestawieniu",
+      "rank": null,
+      "seconds": 478,
+      "note": "Krótka pochwała utrzymania poziomu poprzedniego sezonu.",
+      "malIds": [
+        40591
+      ],
+      "entries": [
+        {
+          "malId": 40591,
+          "title": "Kaguya-sama: Love is War?",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/40591",
+          "catalogUrl": "https://anilist.co/anime/112641",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, psychologiczny, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=478s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-50",
+      "year": 2020,
+      "title": "TONIKAWA: Over the Moon for You",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Główne zestawienie",
+      "rank": null,
+      "seconds": 391,
+      "note": "Wyróżnienie ciepłego romansu o wspólnym życiu.",
+      "malIds": [
+        41389
+      ],
+      "entries": [
+        {
+          "malId": 41389,
+          "title": "TONIKAWA: Over The Moon For You",
+          "year": 2020,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/41389",
+          "catalogUrl": "https://anilist.co/anime/116267",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=391s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2020-51",
+      "year": 2020,
+      "title": "Hitori no Shita: The Outcast — sezon 3",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Najlepsza animowana walka",
+      "rank": null,
+      "seconds": 373,
+      "note": "Wyróżnienie choreografii walki z chińskiego serialu.",
+      "malIds": [
+        38536
+      ],
+      "entries": [
+        {
+          "malId": 38536,
+          "title": "Yi Ren Zhi Xia 3",
+          "year": 2020,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38536",
+          "catalogUrl": "https://anilist.co/anime/105401",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial ONA",
+      "genre": "akcja, dramat, tajemnica, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY",
+      "segmentUrl": "https://www.youtube.com/watch?v=F2Uau5wOngY&t=373s",
+      "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
+    },
+    {
+      "id": "gigguk-2018-19",
+      "year": 2018,
+      "title": "A Place Further than the Universe",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Anime roku; przygoda; muzyka",
+      "rank": null,
+      "seconds": 744,
+      "note": "Główny zwycięzca; dodatkowo najlepsza przygoda.",
+      "malIds": [
+        35839
+      ],
+      "entries": [
+        {
+          "malId": 35839,
+          "title": "A Place Further Than the Universe",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35839",
+          "catalogUrl": "https://anilist.co/anime/99426",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, komedia, dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=744s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-20",
+      "year": 2018,
+      "title": "SSSS.Gridman",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Akcja",
+      "rank": null,
+      "seconds": 478,
+      "note": "Najlepszy serial akcji w tym zestawieniu.",
+      "malIds": [
+        35847
+      ],
+      "entries": [
+        {
+          "malId": 35847,
+          "title": "SSSS.GRIDMAN",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35847",
+          "catalogUrl": "https://anilist.co/anime/99424",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, mecha, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=478s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-21",
+      "year": 2018,
+      "title": "Megalo Box",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Ścieżka dźwiękowa",
+      "rank": null,
+      "seconds": 654,
+      "note": "Zwycięski soundtrack i wyróżniona sportowa dramaturgia.",
+      "malIds": [
+        36563
+      ],
+      "entries": [
+        {
+          "malId": 36563,
+          "title": "Megalobox",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36563",
+          "catalogUrl": "https://anilist.co/anime/100298",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, SF, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=654s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-22",
+      "year": 2018,
+      "title": "Violet Evergarden",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Animacja; muzyka",
+      "rank": null,
+      "seconds": 605,
+      "note": "Wybór za animację; również kandydat muzyczny.",
+      "malIds": [
+        33352
+      ],
+      "entries": [
+        {
+          "malId": 33352,
+          "title": "Violet Evergarden",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/33352",
+          "catalogUrl": "https://anilist.co/anime/21827",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, fantasy, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=605s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-23",
+      "year": 2018,
+      "title": "Devilman Crybaby",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Thriller; muzyka",
+      "rank": null,
+      "seconds": 634,
+      "note": "Najlepszy thriller; wyróżniona elektroniczna muzyka.",
+      "malIds": [
+        35120
+      ],
+      "entries": [
+        {
+          "malId": 35120,
+          "title": "Devilman Crybaby",
+          "year": 2018,
+          "format": "ONA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Psychological",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35120",
+          "catalogUrl": "https://anilist.co/anime/98460",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 10,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": true,
+      "format": "serial ONA",
+      "genre": "akcja, dramat, horror, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=634s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-24",
+      "year": 2018,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Fantasy",
+      "rank": null,
+      "seconds": 707,
+      "note": "Zwycięzca krótkiej kategorii fantasy.",
+      "malIds": [
+        37430
+      ],
+      "entries": [
+        {
+          "malId": 37430,
+          "title": "That Time I Got Reincarnated as a Slime",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37430",
+          "catalogUrl": "https://anilist.co/anime/101280",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=707s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-25",
+      "year": 2018,
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Dramat",
+      "rank": null,
+      "seconds": 725,
+      "note": "Wybór dramatyczny w zestawieniu kategorii.",
+      "malIds": [
+        37450
+      ],
+      "entries": [
+        {
+          "malId": 37450,
+          "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37450",
+          "catalogUrl": "https://anilist.co/anime/101291",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, dramat, tajemnica, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=725s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-26",
+      "year": 2018,
+      "title": "Bloom Into You",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Romans",
+      "rank": null,
+      "seconds": 725,
+      "note": "Wskazany jako mocniejszy romans od Bunny Girl Senpai.",
+      "malIds": [
+        37786
+      ],
+      "entries": [
+        {
+          "malId": 37786,
+          "title": "Bloom Into You",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37786",
+          "catalogUrl": "https://anilist.co/anime/101573",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=725s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-27",
+      "year": 2018,
+      "title": "Boruto: Naruto Next Generations",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Walka roku — Naruto i Sasuke kontra Momoshiki",
+      "rank": null,
+      "seconds": 357,
+      "note": "Nagroda dla pojedynku, nie całego serialu.",
+      "malIds": [
+        34566
+      ],
+      "entries": [
+        {
+          "malId": 34566,
+          "title": "Boruto: Naruto Next Generations",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34566",
+          "catalogUrl": "https://anilist.co/anime/97938",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=357s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-28",
+      "year": 2018,
+      "title": "Banana Fish",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Najbardziej przeoczony tytuł",
+      "rank": null,
+      "seconds": 254,
+      "note": "Najmocniej zaakcentowany tytuł z grupy niedocenionych.",
+      "malIds": [
+        36649
+      ],
+      "entries": [
+        {
+          "malId": 36649,
+          "title": "BANANA FISH",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Psychological",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36649",
+          "catalogUrl": "https://anilist.co/anime/100388",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, psychologiczny, Thriller",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=254s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-29",
+      "year": 2018,
+      "title": "Dragon Pilot: Hisone and Masotan",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Przeoczone anime — wyróżnienie",
+      "rank": null,
+      "seconds": 227,
+      "note": "Polecenie nietypowej, pogodnej produkcji dostępnej na Netfliksie.",
+      "malIds": [
+        36884
+      ],
+      "entries": [
+        {
+          "malId": 36884,
+          "title": "Dragon Pilot: Hisone & Masotan",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36884",
+          "catalogUrl": "https://anilist.co/anime/100673",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=227s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-30",
+      "year": 2018,
+      "title": "Hi Score Girl",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Przeoczone anime — wyróżnienie",
+      "rank": null,
+      "seconds": 245,
+      "note": "Wyróżnienie romansu zakorzenionego w kulturze salonów gier.",
+      "malIds": [
+        21877
+      ],
+      "entries": [
+        {
+          "malId": 21877,
+          "title": "Hi Score Girl",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "malUrl": "https://myanimelist.net/anime/21877",
+          "catalogUrl": "https://anilist.co/anime/20574",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, dramat, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=245s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-31",
+      "year": 2018,
+      "title": "My Hero Academia — sezon 3",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — kandydat",
+      "rank": null,
+      "seconds": 312,
+      "note": "Wyróżniona waga dramatyczna pojedynku.",
+      "malIds": [
+        36456
+      ],
+      "entries": [
+        {
+          "malId": 36456,
+          "title": "My Hero Academia Season 3",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36456",
+          "catalogUrl": "https://anilist.co/anime/100166",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 25,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=312s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-32",
+      "year": 2018,
+      "title": "Attack on Titan — sezon 3",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — scena Leviego",
+      "rank": null,
+      "seconds": 321,
+      "note": "Wyróżnienie inscenizacji i animacji akcji.",
+      "malIds": [
+        35760
+      ],
+      "entries": [
+        {
+          "malId": 35760,
+          "title": "Attack on Titan Season 3",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35760",
+          "catalogUrl": "https://anilist.co/anime/99147",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=321s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-33",
+      "year": 2018,
+      "title": "Black Clover",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — wyróżniona scena",
+      "rank": null,
+      "seconds": 321,
+      "note": "Pochwała konkretnej sceny akcji.",
+      "malIds": [
+        34572
+      ],
+      "entries": [
+        {
+          "malId": 34572,
+          "title": "Black Clover",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34572",
+          "catalogUrl": "https://anilist.co/anime/97940",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=321s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-34",
+      "year": 2018,
+      "title": "Sword Art Online Alternative: Gun Gale Online",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Akcja — kandydat",
+      "rank": null,
+      "seconds": 411,
+      "note": "Pozytywne wyróżnienie alternatywnej odsłony SAO.",
+      "malIds": [
+        36475
+      ],
+      "entries": [
+        {
+          "malId": 36475,
+          "title": "Sword Art Online Alternative: Gun Gale Online",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36475",
+          "catalogUrl": "https://anilist.co/anime/100183",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=411s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-35",
+      "year": 2018,
+      "title": "JoJo’s Bizarre Adventure: Golden Wind",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Opening — kandydat",
+      "rank": null,
+      "seconds": 517,
+      "note": "Wyróżnienie stylu czołówki.",
+      "malIds": [
+        37991
+      ],
+      "entries": [
+        {
+          "malId": 37991,
+          "title": "JoJo's Bizarre Adventure: Golden Wind",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mystery",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37991",
+          "catalogUrl": "https://anilist.co/anime/102883",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 39,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=517s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-36",
+      "year": 2018,
+      "title": "Zombie Land Saga",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Opening; postacie",
+      "rank": null,
+      "seconds": 130,
+      "note": "Wyróżnienia w segmentach postaci i czołówek.",
+      "malIds": [
+        37976
+      ],
+      "entries": [
+        {
+          "malId": 37976,
+          "title": "ZOMBIE LAND SAGA",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37976",
+          "catalogUrl": "https://anilist.co/anime/103871",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, muzyczny, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=130s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-37",
+      "year": 2018,
+      "title": "Pop Team Epic",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Opening — kandydat",
+      "rank": null,
+      "seconds": 527,
+      "note": "Pochwała zapadającej w pamięć czołówki.",
+      "malIds": [
+        35330
+      ],
+      "entries": [
+        {
+          "malId": 35330,
+          "title": "Pop Team Epic",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Comedy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35330",
+          "catalogUrl": "https://anilist.co/anime/98549",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=527s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-38",
+      "year": 2018,
+      "title": "Persona 5 the Animation",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Opening — kandydat",
+      "rank": null,
+      "seconds": 537,
+      "note": "Pochwała czołówki przy krytyce samej adaptacji.",
+      "malIds": [
+        36023
+      ],
+      "entries": [
+        {
+          "malId": 36023,
+          "title": "PERSONA5 the Animation",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36023",
+          "catalogUrl": "https://anilist.co/anime/99693",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, fantasy, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=537s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-39",
+      "year": 2018,
+      "title": "Kokkoku",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Opening — kandydat",
+      "rank": null,
+      "seconds": 537,
+      "note": "Pochwała utworu; Gigguk nie ukończył serialu.",
+      "malIds": [
+        36548
+      ],
+      "entries": [
+        {
+          "malId": 36548,
+          "title": "KOKKOKU",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36548",
+          "catalogUrl": "https://anilist.co/anime/100332",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, tajemnica, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=537s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-40",
+      "year": 2018,
+      "title": "FLCL Progressive",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Muzyka — wyróżnienie",
+      "rank": null,
+      "seconds": 576,
+      "note": "Pochwała muzyki The Pillows, nie całego sequela.",
+      "malIds": [
+        33010
+      ],
+      "entries": [
+        {
+          "malId": 33010,
+          "title": "FLCL Progressive",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/33010",
+          "catalogUrl": "https://anilist.co/anime/21746",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, mecha, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=576s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2018-41",
+      "year": 2018,
+      "title": "FLCL Alternative",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Muzyka — wyróżnienie",
+      "rank": null,
+      "seconds": 576,
+      "note": "Pochwała muzyki The Pillows, nie całego sequela.",
+      "malIds": [
+        35842
+      ],
+      "entries": [
+        {
+          "malId": 35842,
+          "title": "FLCL Alternative",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35842",
+          "catalogUrl": "https://anilist.co/anime/21748",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, mecha, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4",
+      "segmentUrl": "https://www.youtube.com/watch?v=4kSjq35b5K4&t=576s",
+      "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
+    },
+    {
+      "id": "gigguk-2017-1",
+      "year": 2017,
+      "title": "Made in Abyss",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Anime roku; muzyka; tła",
+      "rank": null,
+      "seconds": 443,
+      "note": "Zwycięzca całego roku; przygoda, muzyka i plastyka świata.",
+      "malIds": [
+        34599
+      ],
+      "entries": [
+        {
+          "malId": 34599,
+          "title": "Made in Abyss",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34599",
+          "catalogUrl": "https://anilist.co/anime/97986",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 13,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, dramat, fantasy, horror",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=443s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-2",
+      "year": 2017,
+      "title": "Land of the Lustrous",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "CG; animacja; kandydat do anime roku",
+      "rank": null,
+      "seconds": 144,
+      "note": "Wyróżnione za twórcze wykorzystanie animacji komputerowej.",
+      "malIds": [
+        35557
+      ],
+      "entries": [
+        {
+          "malId": 35557,
+          "title": "Land of the Lustrous",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Psychological"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35557",
+          "catalogUrl": "https://anilist.co/anime/98707",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": true,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=144s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-3",
+      "year": 2017,
+      "title": "My Hero Academia — sezon 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Walki; kandydat do anime roku",
+      "rank": null,
+      "seconds": 217,
+      "note": "Wyróżnione pojedynki Deku i Todorokiego oraz walka ze Stainem.",
+      "malIds": [
+        33486
+      ],
+      "entries": [
+        {
+          "malId": 33486,
+          "title": "My Hero Academia Season 2",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/33486",
+          "catalogUrl": "https://anilist.co/anime/21856",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 25,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=217s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-4",
+      "year": 2017,
+      "title": "Re:CREATORS",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Akcja; muzyka; kandydat do anime roku",
+      "rank": null,
+      "seconds": 256,
+      "note": "Wybór w kategorii akcji; pochwała widowiskowych starć.",
+      "malIds": [
+        34561
+      ],
+      "entries": [
+        {
+          "malId": 34561,
+          "title": "Re:CREATORS",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mecha",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34561",
+          "catalogUrl": "https://anilist.co/anime/97980",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, mecha",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=256s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-5",
+      "year": 2017,
+      "title": "The Ancient Magus’ Bride",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Ścieżka dźwiękowa",
+      "rank": null,
+      "seconds": 425,
+      "note": "Wskazanie najlepszego całościowego soundtracku.",
+      "malIds": [
+        35062
+      ],
+      "entries": [
+        {
+          "malId": 35062,
+          "title": "The Ancient Magus' Bride",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35062",
+          "catalogUrl": "https://anilist.co/anime/98436",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, fantasy, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=425s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-6",
+      "year": 2017,
+      "title": "Descending Stories: Showa Genroku Rakugo Shinju",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Dramat; kandydat do anime roku",
+      "rank": null,
+      "seconds": 525,
+      "note": "Wyróżnienie za kunszt dramatycznej opowieści.",
+      "malIds": [
+        33095
+      ],
+      "entries": [
+        {
+          "malId": 33095,
+          "title": "Descending Stories: Showa Genroku Rakugo Shinju",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/33095",
+          "catalogUrl": "https://anilist.co/anime/21733",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=525s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-7",
+      "year": 2017,
+      "title": "Neo Yokio",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Komedia — wybór z ironicznym komentarzem",
+      "rank": null,
+      "seconds": 618,
+      "note": "Komediowy wybór; brak potwierdzonego wpisu MAL.",
+      "malIds": [],
+      "entries": [],
+      "completed": false,
+      "userStatus": "NoMapping",
+      "core": false,
+      "format": "serial animowany",
+      "genre": "komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=618s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-8",
+      "year": 2017,
+      "title": "A Silent Voice",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Animacja",
+      "rank": null,
+      "seconds": 678,
+      "note": "Ulubiona animacja roku, zwłaszcza subtelna ekspresja postaci.",
+      "malIds": [
+        28851
+      ],
+      "entries": [
+        {
+          "malId": 28851,
+          "title": "A Silent Voice",
+          "year": 2016,
+          "format": "MOVIE",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/28851",
+          "catalogUrl": "https://anilist.co/anime/20954",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 1,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": true,
+      "format": "film",
+      "genre": "dramat, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=678s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-9",
+      "year": 2017,
+      "title": "Little Witch Academia — serial TV",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Animacja — wyróżnienie",
+      "rank": null,
+      "seconds": 735,
+      "note": "Pochwała animacji mimo zastrzeżeń do całego serialu.",
+      "malIds": [
+        33489
+      ],
+      "entries": [
+        {
+          "malId": 33489,
+          "title": "Little Witch Academia (TV)",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/33489",
+          "catalogUrl": "https://anilist.co/anime/21858",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 25,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=735s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-10",
+      "year": 2017,
+      "title": "Girls’ Last Tour",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Slice of life",
+      "rank": null,
+      "seconds": 765,
+      "note": "Wybór łączący codzienność z postapokaliptyczną melancholią.",
+      "malIds": [
+        35838
+      ],
+      "entries": [
+        {
+          "malId": 35838,
+          "title": "Girls' Last Tour",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Adventure",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35838",
+          "catalogUrl": "https://anilist.co/anime/99420",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "przygodowy, SF, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=765s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-11",
+      "year": 2017,
+      "title": "Tsuki ga Kirei",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Romans",
+      "rank": null,
+      "seconds": 817,
+      "note": "Wybór za wiarygodne przedstawienie nastoletniego związku.",
+      "malIds": [
+        34822
+      ],
+      "entries": [
+        {
+          "malId": 34822,
+          "title": "Tsukigakirei",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34822",
+          "catalogUrl": "https://anilist.co/anime/98202",
+          "userStatus": "Dropped",
+          "statusLabel": "◐ Porzucone (4 odc.)",
+          "watchedEpisodes": 4,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Partial",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=817s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-12",
+      "year": 2017,
+      "title": "Boruto: Naruto Next Generations",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — wyróżniona scena",
+      "rank": null,
+      "seconds": 181,
+      "note": "Pochwała sceny walki, nie całej wieloletniej serii.",
+      "malIds": [
+        34566
+      ],
+      "entries": [
+        {
+          "malId": 34566,
+          "title": "Boruto: Naruto Next Generations",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34566",
+          "catalogUrl": "https://anilist.co/anime/97938",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=181s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-13",
+      "year": 2017,
+      "title": "Fate/Apocrypha",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — wyróżniona animacja",
+      "rank": null,
+      "seconds": 188,
+      "note": "Pochwała animacji walk przy krytyce fabuły i postaci.",
+      "malIds": [
+        34662
+      ],
+      "entries": [
+        {
+          "malId": 34662,
+          "title": "Fate/Apocrypha",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34662",
+          "catalogUrl": "https://anilist.co/anime/98035",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 25,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=188s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-14",
+      "year": 2017,
+      "title": "Attack on Titan — sezon 2",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — Eren kontra opancerzony tytan",
+      "rank": null,
+      "seconds": 228,
+      "note": "Wyróżnienie choreografii konkretnego pojedynku.",
+      "malIds": [
+        25777
+      ],
+      "entries": [
+        {
+          "malId": 25777,
+          "title": "Attack on Titan Season 2",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/25777",
+          "catalogUrl": "https://anilist.co/anime/20958",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=228s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-15",
+      "year": 2017,
+      "title": "Kizumonogatari III: Reiketsu-hen",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Walki — kandydat",
+      "rank": null,
+      "seconds": 236,
+      "note": "Wyróżnienie techniki i pomysłowości sceny walki.",
+      "malIds": [
+        31758
+      ],
+      "entries": [
+        {
+          "malId": 31758,
+          "title": "Kizumonogatari Part 3: Reiketsu",
+          "year": 2017,
+          "format": "MOVIE",
+          "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/31758",
+          "catalogUrl": "https://anilist.co/anime/21400",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "film",
+      "genre": "akcja, dramat, ecchi, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=236s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-16",
+      "year": 2017,
+      "title": "March Comes in Like a Lion — sezony 1–2",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Dramat — kontrkandydat",
+      "rank": null,
+      "seconds": 532,
+      "note": "Wspomniany jako mocny, mniej eksponowany dramat.",
+      "malIds": [
+        31646,
+        35180
+      ],
+      "entries": [
+        {
+          "malId": 31646,
+          "title": "March comes in like a lion",
+          "year": 2016,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/31646",
+          "catalogUrl": "https://anilist.co/anime/21366",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 22,
+          "completed": true
+        },
+        {
+          "malId": 35180,
+          "title": "March comes in like a lion Season 2",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35180",
+          "catalogUrl": "https://anilist.co/anime/98478",
+          "userStatus": "Plan to Watch",
+          "statusLabel": "□ Planowane",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Partial",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=532s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-17",
+      "year": 2017,
+      "title": "Recovery of an MMO Junkie",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Romans — kandydat",
+      "rank": null,
+      "seconds": 793,
+      "note": "Pochwała internetowej relacji z zastrzeżeniami do zbiegów okoliczności.",
+      "malIds": [
+        36038
+      ],
+      "entries": [
+        {
+          "malId": 36038,
+          "title": "Recovery of an MMO Junkie",
+          "year": 2017,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/36038",
+          "catalogUrl": "https://anilist.co/anime/99726",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 10,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, fantasy, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=793s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    },
+    {
+      "id": "gigguk-2017-18",
+      "year": 2017,
+      "title": "Tsuredure Children",
+      "category": "kandydat",
+      "categoryLabel": "Wyróżnienie kategorii / kandydat",
+      "place": "Romans — kandydat",
+      "rank": null,
+      "seconds": 805,
+      "note": "Wyróżniony komediowy portret kilku par.",
+      "malIds": [
+        34902
+      ],
+      "entries": [
+        {
+          "malId": 34902,
+          "title": "Tsuredure Children",
+          "year": 2017,
+          "format": "TV_SHORT",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/34902",
+          "catalogUrl": "https://anilist.co/anime/98291",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV — krótkie odcinki",
+      "genre": "komedia, dramat, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y",
+      "segmentUrl": "https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=805s",
+      "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
+    }
+  ]
+}
