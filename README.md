@@ -7,6 +7,6 @@ Osobny atlas anime RZdulski: kanon krytyka i konesera oraz roczne wybory Gigguka
 - [Kanon w Markdown](kanon-anime.md)
 - [Gigguk — Best of w Markdown](gigguk-best-of.md)
 
-Kanon: 694 pozycji. Gigguk: 143 wpisy z 8 roczników, w tym 28 honorable mentions. Statusy obejrzenia pochodzą z lokalnego eksportu MAL, nie z odświeżanego konta. Źródła, daty i ograniczenia opisano w atlasie.
+Kanon: 694 pozycji. Gigguk: 164 wpisy z 9 roczników, w tym 39 honorable mentions. Statusy obejrzenia pochodzą z lokalnego eksportu MAL, nie z odświeżanego konta. Źródła, daty i ograniczenia opisano w atlasie.
 
 Repozytorium zawiera gotowe eksporty do samodzielnego przeglądania i publikacji przez GitHub Pages. Plik index.html działa także lokalnie.

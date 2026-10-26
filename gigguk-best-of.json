@@ -1,29 +1,31 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-26",
   "stats": {
-    "appearances": 143,
-    "malEntries": 145,
-    "years": 8,
-    "completed": 54,
-    "honorable": 28,
+    "appearances": 164,
+    "malEntries": 165,
+    "years": 9,
+    "completed": 60,
+    "honorable": 39,
     "categoryMentions": 19
   },
   "notes": [
-    "Osiem rocznych filmów „Best of Anime”: 2017, 2018 i 2020–2025. 143 wpisów w rocznikach, w tym 28 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.",
+    "Dziewięć rocznych podsumowań z lat 2017–2025, w tym „Anime in 2019”. 164 wpisów w rocznikach, w tym 39 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.",
     "Zachowano honorable mentions. Pochwalone kontynuacje pominięte w głównym rankingu także oznaczono jako wyróżnienia. W starszych filmach wybory dotyczą nieraz wyłącznie muzyki, animacji lub jednej walki; nie oznaczają rekomendacji całego serialu. Reklam, negatywnych przykładów, zwykłych porównań i fałszywych zwycięzców użytych wyłącznie jako żart nie włączono.",
     "Ta zakładka odtwarza wybory Gigguka, dlatego nie stosuje progu ocen i popularności z głównego kanonu. Pogrubienie nadal oznacza przynależność do rdzenia kanonu, a nie miejsce u Gigguka. Komentarze są krótkimi objaśnieniami, nie cytatami ani oceną zgodności z Twoim gustem.",
     "Status pochodzi z lokalnego anime-list.json. Przy kilku częściach podano osobny status każdej: „Obejrzane” dla całego wpisu wymaga ukończenia wszystkich wskazanych części. „Brak wpisu” nie rozstrzyga, czy oglądałeś tytuł. Status dotyczy całego rekordu MAL, także gdy Gigguk omawiał tylko dostępną wtedy część emisji.",
-    "Nie znaleziono osobnych „Best of Anime 2019” ani „Best of Anime 2026”. Przeglądy „Anime in…” mają inny zakres i nie są tutaj traktowane jako rankingi. W 2021 dodatkowym wyborem „animacji roku” było Arcane; w 2020 finał dotyczył VTuberów. Te wzmianki pozostają poza tabelą anime.",
-    "Źródła: opisy i rozdziały filmów, nieoficjalny indeks wypowiedzi Gigguk Database oraz pomocnicze spisy widzów. Nie wykonano pełnego odsłuchu ośmiu filmów, więc nie gwarantujemy wychwycenia każdego krótkiego napisu ekranowego. Linki czasowe z indeksu prowadzą do wypowiedzi, nie zawsze do początku rozdziału. Stan opracowania: 5 października 2026."
+    "„Anime in 2019” (publikacja 22.01.2020) zawiera osobistych faworytów i wybór Vinland Saga jako anime roku. Nie ma numerowanego rankingu pozostałych tytułów: „Główny wybór” oznacza tutaj mocno wyróżnione dzieła, a „Honorable mention” dodatkowe pochwalone pozycje — to kategorie porządkujące atlasu, nie nazwy nagród z filmu. Nie uwzględniono sekcji negatywnych przykładów, zwykłych porównań ani seriali, których Gigguk przyznaje, że jeszcze nie obejrzał. Ogólnej wzmianki o Psycho-Pass nie przypisano arbitralnie do konkretnego sezonu.",
+    "Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jeszcze trwa. W 2021 dodatkowym wyborem „animacji roku” było Arcane; w 2020 finał dotyczył VTuberów. Te wzmianki pozostają poza tabelą anime.",
+    "Źródła: opisy i rozdziały filmów, transkrypcja YouTube dla 2019, nieoficjalny indeks wypowiedzi Gigguk Database oraz pomocnicze spisy widzów. Rocznik 2019 sprawdzono na podstawie pełnej transkrypcji i opisu autora. Pozostałe osiem filmów opracowano bez pełnego odsłuchu; krótkie napisy ekranowe mogą być pominięte. Linki czasowe prowadzą do wypowiedzi, nie zawsze do początku rozdziału. Aktualizacja 2019: 26 października 2026; pozostałe roczniki: 5 października 2026."
   ],
   "sources": {
-    "retrievedAt": "2026-10-05",
+    "retrievedAt": "2026-10-26",
     "channel": "https://www.youtube.com/@gigguk",
     "inventory": "https://thetvdb.com/series/gigguk/allseasons/official",
     "index": "https://giggukdb.com/",
-    "scope": "Osiem filmów głównego kanału zatytułowanych Best of Anime: 2017, 2018, 2020–2025. Ogólne przeglądy Anime in… i filmy drugiego kanału nie są traktowane jako osobne roczne rankingi Best of.",
-    "method": "Ręczna selekcja na podstawie rozdziałów i opisów filmów, indeksu wypowiedzi Gigguk Database oraz pomocniczych spisów widzów. Indeks jest nieoficjalny i zawiera automatyczne klasyfikacje; jego identyfikatorów anime nie przeniesiono bezkrytycznie. Rozpoznano m.in. odniesienie do Boruto błędnie przypisane Naruto oraz nazwy franczyz zamiast konkretnych sezonów. Nie przeprowadzono pełnego odsłuchu wszystkich ośmiu filmów; zwłaszcza krótkie napisy ekranowe mogą nie być ujęte w indeksie.",
+    "scope": "Dziewięć rocznych podsumowań głównego kanału z lat 2017–2025, w tym Anime in 2019. Dobór według treści, nie wyłącznie tytułu filmu.",
+    "method": "Rocznik 2019: pełna angielska transkrypcja YouTube i opis autora, odczyt 26.10.2026. Pozostałe roczniki: opisy, rozdziały, indeks Gigguk Database i pomocnicze spisy widzów, stan 05.10.2026. W 2019 tylko Vinland Saga ma miejsce 1; inne wpisy opisują wyróżnienia bez wymyślonego rankingu. Honorable mentions w tym roczniku to redakcyjna kategoria dodatkowych pochwał. Nie przeprowadzono pełnego odsłuchu wszystkich filmów; krótkie napisy ekranowe mogą nie być ujęte.",
     "supplementary": {
+      "2019": "https://www.youtube.com/watch?v=OavIyTKL3L4",
       "2021": "https://www.reddit.com/r/anime/comments/sb4hpt/best_of_anime_2021_gigguk/",
       "2022": "https://www.reddit.com/r/anime/comments/10oh1ru/best_of_anime_2022_by_gigguk/",
       "2023": "https://www.youtube.com/watch?v=JhVPJ2J0sz8",
@@ -44,11 +46,6 @@
     ],
     "notIncluded": [
       {
-        "year": 2019,
-        "video": "https://www.youtube.com/watch?v=OavIyTKL3L4",
-        "reason": "Anime in 2019 jest ogólnym przeglądem, nie filmem z serii Best of Anime."
-      },
-      {
         "year": 2026,
         "reason": "Nie znaleziono rocznego Best of Anime 2026 na dzień opracowania; rok jeszcze trwa."
       },
@@ -62,7 +59,15 @@
         "title": "VTuberzy / Hololive",
         "reason": "Końcowy żartobliwy wybór dotyczy zjawiska internetowego, a nie konkretnego filmu lub serialu anime."
       }
-    ]
+    ],
+    "verification2019": {
+      "video": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "transcript": "2019-transcript.txt",
+      "retrievedAt": "2026-10-26",
+      "metadata": "2019-metadata.json",
+      "classification": "10 głównych wyborów i 11 dodatkowych pochwał. Gigguk nie nadał pozostałym tytułom miejsc.",
+      "excluded": "Negatywna sekcja Trash; porównania; neutralne wzmianki; Cautious Hero, Kemono Michi, Ascendance of a Bookworm i Babylon — deklarowane zaległości; Fruits Basket — nieukończone bez własnej oceny; Psycho-Pass — ogólna wzmianka bez jednoznacznego sezonu."
+    }
   },
   "videos": [
     {
@@ -108,6 +113,13 @@
       "publishedAt": "2021-01-17"
     },
     {
+      "year": 2019,
+      "title": "Anime in 2019",
+      "url": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "youtubeId": "OavIyTKL3L4",
+      "publishedAt": "2020-01-22"
+    },
+    {
       "year": 2018,
       "title": "Best of Anime 2018",
       "url": "https://www.youtube.com/watch?v=4kSjq35b5K4",
@@ -124,7 +136,7 @@
   ],
   "rows": [
     {
-      "id": "gigguk-2025-127",
+      "id": "gigguk-2025-148",
       "year": 2025,
       "title": "Orb: On the Movements of the Earth",
       "category": "wybor",
@@ -163,7 +175,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-128",
+      "id": "gigguk-2025-149",
       "year": 2025,
       "title": "My Hero Academia: Final Season",
       "category": "wybor",
@@ -203,7 +215,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-129",
+      "id": "gigguk-2025-150",
       "year": 2025,
       "title": "Apocalypse Hotel",
       "category": "wybor",
@@ -244,7 +256,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-130",
+      "id": "gigguk-2025-151",
       "year": 2025,
       "title": "Uma Musume: Cinderella Gray — obie części",
       "category": "wybor",
@@ -301,7 +313,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-131",
+      "id": "gigguk-2025-152",
       "year": 2025,
       "title": "Takopi’s Original Sin",
       "category": "wybor",
@@ -342,7 +354,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-132",
+      "id": "gigguk-2025-153",
       "year": 2025,
       "title": "To Be Hero X",
       "category": "wybor",
@@ -384,7 +396,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-133",
+      "id": "gigguk-2025-154",
       "year": 2025,
       "title": "The Summer Hikaru Died",
       "category": "wybor",
@@ -427,7 +439,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-134",
+      "id": "gigguk-2025-155",
       "year": 2025,
       "title": "Medalist",
       "category": "wybor",
@@ -468,7 +480,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-135",
+      "id": "gigguk-2025-156",
       "year": 2025,
       "title": "Clevatess",
       "category": "wybor",
@@ -509,7 +521,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-136",
+      "id": "gigguk-2025-157",
       "year": 2025,
       "title": "Gachiakuta",
       "category": "wybor",
@@ -550,7 +562,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-137",
+      "id": "gigguk-2025-158",
       "year": 2025,
       "title": "Dandadan — sezon 2",
       "category": "honorable",
@@ -594,7 +606,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-138",
+      "id": "gigguk-2025-159",
       "year": 2025,
       "title": "The Apothecary Diaries — sezon 2",
       "category": "honorable",
@@ -634,7 +646,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-139",
+      "id": "gigguk-2025-160",
       "year": 2025,
       "title": "City the Animation",
       "category": "honorable",
@@ -674,7 +686,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-140",
+      "id": "gigguk-2025-161",
       "year": 2025,
       "title": "Nukitashi the Animation",
       "category": "honorable",
@@ -717,7 +729,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-141",
+      "id": "gigguk-2025-162",
       "year": 2025,
       "title": "Solo Leveling — sezon 2",
       "category": "honorable",
@@ -758,7 +770,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-142",
+      "id": "gigguk-2025-163",
       "year": 2025,
       "title": "Chainsaw Man — The Movie: Reze Arc",
       "category": "honorable",
@@ -801,7 +813,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2025-143",
+      "id": "gigguk-2025-164",
       "year": 2025,
       "title": "100 Meters / Hyakuemu.",
       "category": "honorable",
@@ -841,7 +853,7 @@
       "indexUrl": "https://giggukdb.com/?video=lymfyRBPd14"
     },
     {
-      "id": "gigguk-2024-110",
+      "id": "gigguk-2024-131",
       "year": 2024,
       "title": "Look Back",
       "category": "wybor",
@@ -881,7 +893,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-111",
+      "id": "gigguk-2024-132",
       "year": 2024,
       "title": "Dandadan — sezon 1",
       "category": "wybor",
@@ -925,7 +937,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-112",
+      "id": "gigguk-2024-133",
       "year": 2024,
       "title": "Delicious in Dungeon / Dungeon Meshi",
       "category": "wybor",
@@ -966,7 +978,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-113",
+      "id": "gigguk-2024-134",
       "year": 2024,
       "title": "Orb: On the Movements of the Earth",
       "category": "wybor",
@@ -1005,7 +1017,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-114",
+      "id": "gigguk-2024-135",
       "year": 2024,
       "title": "Girls Band Cry",
       "category": "wybor",
@@ -1046,7 +1058,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-115",
+      "id": "gigguk-2024-136",
       "year": 2024,
       "title": "The Dangers in My Heart — sezon 2",
       "category": "wybor",
@@ -1087,7 +1099,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-116",
+      "id": "gigguk-2024-137",
       "year": 2024,
       "title": "Makeine: Too Many Losing Heroines!",
       "category": "wybor",
@@ -1128,7 +1140,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-117",
+      "id": "gigguk-2024-138",
       "year": 2024,
       "title": "Re:Zero — sezon 3",
       "category": "wybor",
@@ -1173,7 +1185,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-118",
+      "id": "gigguk-2024-139",
       "year": 2024,
       "title": "Dead Dead Demon’s Dededede Destruction — serial",
       "category": "wybor",
@@ -1215,7 +1227,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-119",
+      "id": "gigguk-2024-140",
       "year": 2024,
       "title": "Brave Bang Bravern!",
       "category": "wybor",
@@ -1257,7 +1269,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-120",
+      "id": "gigguk-2024-141",
       "year": 2024,
       "title": "My Hero Academia — sezon 7",
       "category": "wybor",
@@ -1297,7 +1309,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-121",
+      "id": "gigguk-2024-142",
       "year": 2024,
       "title": "Oshi no Ko — sezon 2",
       "category": "honorable",
@@ -1339,7 +1351,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-122",
+      "id": "gigguk-2024-143",
       "year": 2024,
       "title": "Mushoku Tensei — sezon 2, część 2",
       "category": "honorable",
@@ -1381,7 +1393,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-123",
+      "id": "gigguk-2024-144",
       "year": 2024,
       "title": "KonoSuba — sezon 3",
       "category": "honorable",
@@ -1424,7 +1436,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-124",
+      "id": "gigguk-2024-145",
       "year": 2024,
       "title": "Demon Slayer: Hashira Training Arc",
       "category": "honorable",
@@ -1467,7 +1479,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-125",
+      "id": "gigguk-2024-146",
       "year": 2024,
       "title": "The Apothecary Diaries — dalszy ciąg sezonu 1",
       "category": "honorable",
@@ -1507,7 +1519,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2024-126",
+      "id": "gigguk-2024-147",
       "year": 2024,
       "title": "Frieren: Beyond Journey’s End — dalszy ciąg",
       "category": "honorable",
@@ -1548,7 +1560,7 @@
       "indexUrl": "https://giggukdb.com/?video=rJ1PLLPcWXs"
     },
     {
-      "id": "gigguk-2023-93",
+      "id": "gigguk-2023-114",
       "year": 2023,
       "title": "Vinland Saga — sezon 2",
       "category": "wybor",
@@ -1589,7 +1601,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-94",
+      "id": "gigguk-2023-115",
       "year": 2023,
       "title": "Frieren: Beyond Journey’s End",
       "category": "wybor",
@@ -1630,7 +1642,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-95",
+      "id": "gigguk-2023-116",
       "year": 2023,
       "title": "Jujutsu Kaisen — sezon 2",
       "category": "wybor",
@@ -1671,7 +1683,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-96",
+      "id": "gigguk-2023-117",
       "year": 2023,
       "title": "Pluto",
       "category": "wybor",
@@ -1716,7 +1728,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-97",
+      "id": "gigguk-2023-118",
       "year": 2023,
       "title": "The Apothecary Diaries — sezon 1",
       "category": "wybor",
@@ -1756,7 +1768,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-98",
+      "id": "gigguk-2023-119",
       "year": 2023,
       "title": "Heavenly Delusion / Tengoku Daimakyou",
       "category": "wybor",
@@ -1798,7 +1810,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-99",
+      "id": "gigguk-2023-120",
       "year": 2023,
       "title": "Skip and Loafer",
       "category": "wybor",
@@ -1839,7 +1851,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-100",
+      "id": "gigguk-2023-121",
       "year": 2023,
       "title": "Attack on Titan: The Final Chapters",
       "category": "wybor",
@@ -1882,7 +1894,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-101",
+      "id": "gigguk-2023-122",
       "year": 2023,
       "title": "The Eminence in Shadow — sezony 1–2",
       "category": "wybor",
@@ -1941,7 +1953,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-102",
+      "id": "gigguk-2023-123",
       "year": 2023,
       "title": "Oshi no Ko — sezon 1",
       "category": "wybor",
@@ -1983,7 +1995,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-103",
+      "id": "gigguk-2023-124",
       "year": 2023,
       "title": "Trigun Stampede",
       "category": "wybor",
@@ -2024,7 +2036,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-104",
+      "id": "gigguk-2023-125",
       "year": 2023,
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
       "category": "wybor",
@@ -2065,7 +2077,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-105",
+      "id": "gigguk-2023-126",
       "year": 2023,
       "title": "Zom 100: Bucket List of the Dead",
       "category": "wybor",
@@ -2108,7 +2120,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-106",
+      "id": "gigguk-2023-127",
       "year": 2023,
       "title": "Hell’s Paradise",
       "category": "honorable",
@@ -2150,7 +2162,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-107",
+      "id": "gigguk-2023-128",
       "year": 2023,
       "title": "Mashle: Magic and Muscles — sezon 1",
       "category": "honorable",
@@ -2191,7 +2203,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-108",
+      "id": "gigguk-2023-129",
       "year": 2023,
       "title": "Undead Unluck",
       "category": "honorable",
@@ -2233,7 +2245,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2023-109",
+      "id": "gigguk-2023-130",
       "year": 2023,
       "title": "Mushoku Tensei — sezon 2, część 1",
       "category": "honorable",
@@ -2275,7 +2287,7 @@
       "indexUrl": "https://giggukdb.com/?video=JhVPJ2J0sz8"
     },
     {
-      "id": "gigguk-2022-72",
+      "id": "gigguk-2022-93",
       "year": 2022,
       "title": "Made in Abyss: The Golden City of the Scorching Sun",
       "category": "wybor",
@@ -2319,7 +2331,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-73",
+      "id": "gigguk-2022-94",
       "year": 2022,
       "title": "Mob Psycho 100 III",
       "category": "wybor",
@@ -2363,7 +2375,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-74",
+      "id": "gigguk-2022-95",
       "year": 2022,
       "title": "Cyberpunk: Edgerunners",
       "category": "wybor",
@@ -2405,7 +2417,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-75",
+      "id": "gigguk-2022-96",
       "year": 2022,
       "title": "Bocchi the Rock!",
       "category": "wybor",
@@ -2446,7 +2458,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-76",
+      "id": "gigguk-2022-97",
       "year": 2022,
       "title": "Chainsaw Man",
       "category": "wybor",
@@ -2488,7 +2500,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-77",
+      "id": "gigguk-2022-98",
       "year": 2022,
       "title": "Kaguya-sama: Love Is War — Ultra Romantic",
       "category": "wybor",
@@ -2530,7 +2542,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-78",
+      "id": "gigguk-2022-99",
       "year": 2022,
       "title": "Mobile Suit Gundam: The Witch from Mercury — sezon 1",
       "category": "wybor",
@@ -2572,7 +2584,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-79",
+      "id": "gigguk-2022-100",
       "year": 2022,
       "title": "Spy x Family — sezon 1, obie części",
       "category": "wybor",
@@ -2633,7 +2645,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-80",
+      "id": "gigguk-2022-101",
       "year": 2022,
       "title": "Demon Slayer: Entertainment District Arc",
       "category": "wybor",
@@ -2675,7 +2687,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-81",
+      "id": "gigguk-2022-102",
       "year": 2022,
       "title": "Summer Time Rendering",
       "category": "wybor",
@@ -2718,7 +2730,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-82",
+      "id": "gigguk-2022-103",
       "year": 2022,
       "title": "Call of the Night",
       "category": "wybor",
@@ -2761,7 +2773,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-83",
+      "id": "gigguk-2022-104",
       "year": 2022,
       "title": "Blue Lock",
       "category": "wybor",
@@ -2802,7 +2814,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-84",
+      "id": "gigguk-2022-105",
       "year": 2022,
       "title": "Aoashi",
       "category": "wybor",
@@ -2842,7 +2854,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-85",
+      "id": "gigguk-2022-106",
       "year": 2022,
       "title": "My Dress-Up Darling",
       "category": "wybor",
@@ -2884,7 +2896,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-86",
+      "id": "gigguk-2022-107",
       "year": 2022,
       "title": "Lycoris Recoil",
       "category": "wybor",
@@ -2924,7 +2936,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-87",
+      "id": "gigguk-2022-108",
       "year": 2022,
       "title": "Ya Boy Kongming!",
       "category": "wybor",
@@ -2966,7 +2978,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-88",
+      "id": "gigguk-2022-109",
       "year": 2022,
       "title": "Birdie Wing: Golf Girls’ Story",
       "category": "wybor",
@@ -3007,7 +3019,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-89",
+      "id": "gigguk-2022-110",
       "year": 2022,
       "title": "My Hero Academia — sezon 6",
       "category": "honorable",
@@ -3047,7 +3059,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-90",
+      "id": "gigguk-2022-111",
       "year": 2022,
       "title": "JoJo’s Bizarre Adventure: Stone Ocean — części 2–3",
       "category": "honorable",
@@ -3107,7 +3119,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-91",
+      "id": "gigguk-2022-112",
       "year": 2022,
       "title": "Bleach: Thousand-Year Blood War — część 1",
       "category": "honorable",
@@ -3148,7 +3160,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2022-92",
+      "id": "gigguk-2022-113",
       "year": 2022,
       "title": "Attack on Titan: The Final Season — część 2",
       "category": "honorable",
@@ -3191,7 +3203,7 @@
       "indexUrl": "https://giggukdb.com/?video=xXmXM0qRMbo"
     },
     {
-      "id": "gigguk-2021-52",
+      "id": "gigguk-2021-73",
       "year": 2021,
       "title": "Mushoku Tensei — sezon 1, obie części",
       "category": "wybor",
@@ -3252,7 +3264,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-53",
+      "id": "gigguk-2021-74",
       "year": 2021,
       "title": "Attack on Titan: The Final Season — część 1",
       "category": "wybor",
@@ -3294,7 +3306,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-54",
+      "id": "gigguk-2021-75",
       "year": 2021,
       "title": "Odd Taxi",
       "category": "wybor",
@@ -3336,7 +3348,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-55",
+      "id": "gigguk-2021-76",
       "year": 2021,
       "title": "Ranking of Kings",
       "category": "wybor",
@@ -3378,7 +3390,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-56",
+      "id": "gigguk-2021-77",
       "year": 2021,
       "title": "Link Click",
       "category": "wybor",
@@ -3420,7 +3432,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-57",
+      "id": "gigguk-2021-78",
       "year": 2021,
       "title": "To Your Eternity",
       "category": "wybor",
@@ -3463,7 +3475,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-58",
+      "id": "gigguk-2021-79",
       "year": 2021,
       "title": "Vivy: Fluorite Eye’s Song",
       "category": "wybor",
@@ -3506,7 +3518,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-59",
+      "id": "gigguk-2021-80",
       "year": 2021,
       "title": "JoJo’s Bizarre Adventure: Stone Ocean — część 1",
       "category": "wybor",
@@ -3548,7 +3560,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-60",
+      "id": "gigguk-2021-81",
       "year": 2021,
       "title": "86 — obie części",
       "category": "wybor",
@@ -3609,7 +3621,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-61",
+      "id": "gigguk-2021-82",
       "year": 2021,
       "title": "Sonny Boy",
       "category": "wybor",
@@ -3652,7 +3664,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-64",
+      "id": "gigguk-2021-85",
       "year": 2021,
       "title": "Nomad: Megalo Box 2",
       "category": "wybor",
@@ -3694,7 +3706,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-65",
+      "id": "gigguk-2021-86",
       "year": 2021,
       "title": "Star Wars: Visions — tom 1",
       "category": "wybor",
@@ -3735,7 +3747,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-66",
+      "id": "gigguk-2021-87",
       "year": 2021,
       "title": "Horimiya",
       "category": "wybor",
@@ -3776,7 +3788,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-62",
+      "id": "gigguk-2021-83",
       "year": 2021,
       "title": "Don’t Toy with Me, Miss Nagatoro",
       "category": "wybor",
@@ -3817,7 +3829,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-63",
+      "id": "gigguk-2021-84",
       "year": 2021,
       "title": "Komi Can’t Communicate — sezon 1",
       "category": "wybor",
@@ -3858,7 +3870,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-67",
+      "id": "gigguk-2021-88",
       "year": 2021,
       "title": "Beastars — sezon 2",
       "category": "honorable",
@@ -3901,7 +3913,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-68",
+      "id": "gigguk-2021-89",
       "year": 2021,
       "title": "Miss Kobayashi’s Dragon Maid S",
       "category": "honorable",
@@ -3942,7 +3954,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-69",
+      "id": "gigguk-2021-90",
       "year": 2021,
       "title": "That Time I Got Reincarnated as a Slime — sezon 2",
       "category": "honorable",
@@ -4003,7 +4015,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-70",
+      "id": "gigguk-2021-91",
       "year": 2021,
       "title": "Jujutsu Kaisen — dalszy ciąg sezonu 1",
       "category": "honorable",
@@ -4044,7 +4056,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2021-71",
+      "id": "gigguk-2021-92",
       "year": 2021,
       "title": "Re:Zero — sezon 2, część 2",
       "category": "honorable",
@@ -4089,7 +4101,7 @@
       "indexUrl": "https://giggukdb.com/?video=5ytnKggHwvY"
     },
     {
-      "id": "gigguk-2020-42",
+      "id": "gigguk-2020-63",
       "year": 2020,
       "title": "Re:Zero — sezon 2, część 1",
       "category": "wybor",
@@ -4133,7 +4145,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-43",
+      "id": "gigguk-2020-64",
       "year": 2020,
       "title": "Dorohedoro",
       "category": "wybor",
@@ -4177,7 +4189,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-44",
+      "id": "gigguk-2020-65",
       "year": 2020,
       "title": "Great Pretender",
       "category": "wybor",
@@ -4219,7 +4231,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-45",
+      "id": "gigguk-2020-66",
       "year": 2020,
       "title": "Keep Your Hands Off Eizouken!",
       "category": "wybor",
@@ -4260,7 +4272,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-46",
+      "id": "gigguk-2020-67",
       "year": 2020,
       "title": "Rent-a-Girlfriend",
       "category": "wybor",
@@ -4301,7 +4313,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-47",
+      "id": "gigguk-2020-68",
       "year": 2020,
       "title": "Jujutsu Kaisen",
       "category": "wybor",
@@ -4342,7 +4354,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-48",
+      "id": "gigguk-2020-69",
       "year": 2020,
       "title": "A Certain Scientific Railgun T",
       "category": "wybor",
@@ -4382,7 +4394,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-49",
+      "id": "gigguk-2020-70",
       "year": 2020,
       "title": "Kaguya-sama: Love Is War? — sezon 2",
       "category": "wybor",
@@ -4424,7 +4436,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-50",
+      "id": "gigguk-2020-71",
       "year": 2020,
       "title": "TONIKAWA: Over the Moon for You",
       "category": "wybor",
@@ -4465,7 +4477,7 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2020-51",
+      "id": "gigguk-2020-72",
       "year": 2020,
       "title": "Hitori no Shita: The Outcast — sezon 3",
       "category": "kandydat",
@@ -4508,7 +4520,892 @@
       "indexUrl": "https://giggukdb.com/?video=F2Uau5wOngY"
     },
     {
-      "id": "gigguk-2018-19",
+      "id": "gigguk-2019-1",
+      "year": 2019,
+      "title": "Vinland Saga",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "1",
+      "rank": 1,
+      "seconds": 1487,
+      "note": "Anime roku; szczególne uznanie dla postaci Askeladda.",
+      "malIds": [
+        37521
+      ],
+      "entries": [
+        {
+          "malId": 37521,
+          "title": "Vinland Saga",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37521",
+          "catalogUrl": "https://anilist.co/anime/101348",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1487s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-2",
+      "year": 2019,
+      "title": "Mob Psycho 100 II",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Kandydat do anime roku",
+      "rank": null,
+      "seconds": 958,
+      "note": "Pochwała animacji i emocjonalnej relacji Moba z Reigenem.",
+      "malIds": [
+        37510
+      ],
+      "entries": [
+        {
+          "malId": 37510,
+          "title": "Mob Psycho 100 II",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37510",
+          "catalogUrl": "https://anilist.co/anime/101338",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, komedia, dramat, psychologiczny",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=958s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-3",
+      "year": 2019,
+      "title": "Attack on Titan — sezon 3, część 2",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Kandydat do anime roku",
+      "rank": null,
+      "seconds": 1009,
+      "note": "Wyróżnienie za napięcie i rozwiązanie tajemnic serii.",
+      "malIds": [
+        38524
+      ],
+      "entries": [
+        {
+          "malId": 38524,
+          "title": "Attack on Titan Season 3 Part 2",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38524",
+          "catalogUrl": "https://anilist.co/anime/104578",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 10,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, fantasy, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1009s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-4",
+      "year": 2019,
+      "title": "Beastars",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Ulubiony dramat szkolny; muzyka",
+      "rank": null,
+      "seconds": 795,
+      "note": "Ulubiony dramat szkolny; pochwała reżyserii, głosów i 3D.",
+      "malIds": [
+        39195
+      ],
+      "entries": [
+        {
+          "malId": 39195,
+          "title": "BEASTARS",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39195",
+          "catalogUrl": "https://anilist.co/anime/107660",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": true,
+      "format": "serial TV",
+      "genre": "dramat, tajemnica, psychologiczny, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=795s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-5",
+      "year": 2019,
+      "title": "Kaguya-sama: Love Is War",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Komedia romantyczna",
+      "rank": null,
+      "seconds": 681,
+      "note": "Wyróżnione gry psychologiczne i relacja głównych bohaterów.",
+      "malIds": [
+        37999
+      ],
+      "entries": [
+        {
+          "malId": 37999,
+          "title": "Kaguya-sama: Love is War",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37999",
+          "catalogUrl": "https://anilist.co/anime/101921",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, psychologiczny, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=681s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-6",
+      "year": 2019,
+      "title": "O Maidens in Your Savage Season",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Niedoceniona perełka roku",
+      "rank": null,
+      "seconds": 723,
+      "note": "Pochwała szczerego i zabawnego ujęcia dojrzewania.",
+      "malIds": [
+        38753
+      ],
+      "entries": [
+        {
+          "malId": 38753,
+          "title": "O Maidens in Your Savage Season",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38753",
+          "catalogUrl": "https://anilist.co/anime/105932",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, dramat, romans, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=723s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-7",
+      "year": 2019,
+      "title": "Isekai Quartet",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Zaskoczenie roku wśród isekai",
+      "rank": null,
+      "seconds": 222,
+      "note": "Nieoczekiwanie udana komedia dialogów i spotkania bohaterów.",
+      "malIds": [
+        38472
+      ],
+      "entries": [
+        {
+          "malId": 38472,
+          "title": "Isekai Quartet",
+          "year": 2019,
+          "format": "TV_SHORT",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38472",
+          "catalogUrl": "https://anilist.co/anime/104454",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV — krótkie odcinki",
+      "genre": "komedia, fantasy, obyczajowy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=222s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-8",
+      "year": 2019,
+      "title": "Carole & Tuesday",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Muzyka",
+      "rank": null,
+      "seconds": 354,
+      "note": "Wyjątkowa produkcja muzyczna; zastrzeżenia do scenariusza.",
+      "malIds": [
+        37435
+      ],
+      "entries": [
+        {
+          "malId": 37435,
+          "title": "Carole & Tuesday",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Music",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37435",
+          "catalogUrl": "https://anilist.co/anime/101281",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, muzyczny, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=354s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-9",
+      "year": 2019,
+      "title": "Demon Slayer",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Przełomowy hit; kandydat do anime roku",
+      "rank": null,
+      "seconds": 1181,
+      "note": "Wyróżniony odcinek 19; ostrożność wobec przesadnych zachwytów.",
+      "malIds": [
+        38000
+      ],
+      "entries": [
+        {
+          "malId": 38000,
+          "title": "Demon Slayer: Kimetsu no Yaiba",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38000",
+          "catalogUrl": "https://anilist.co/anime/101922",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 26,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1181s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-10",
+      "year": 2019,
+      "title": "The Promised Neverland — sezon 1",
+      "category": "wybor",
+      "categoryLabel": "Główny wybór",
+      "place": "Thriller",
+      "rank": null,
+      "seconds": 1253,
+      "note": "Pochwała napięcia, pomysłu i zwrotów akcji.",
+      "malIds": [
+        37779
+      ],
+      "entries": [
+        {
+          "malId": 37779,
+          "title": "The Promised Neverland",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37779",
+          "catalogUrl": "https://anilist.co/anime/101759",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 12,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, fantasy, horror, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1253s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-11",
+      "year": 2019,
+      "title": "The Rising of the Shield Hero",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Dodatkowe wyróżnienie: isekai",
+      "rank": null,
+      "seconds": 133,
+      "note": "Satysfakcjonujący odwet mimo uproszczeń w charakterystyce postaci.",
+      "malIds": [
+        35790
+      ],
+      "entries": [
+        {
+          "malId": 35790,
+          "title": "The Rising of the Shield Hero",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "malUrl": "https://myanimelist.net/anime/35790",
+          "catalogUrl": "https://anilist.co/anime/99263",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 25,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=133s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-12",
+      "year": 2019,
+      "title": "Sword Art Online: Alicization — War of Underworld",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Dodatkowe wyróżnienie: isekai",
+      "rank": null,
+      "seconds": 178,
+      "note": "Pochwała rozrywkowości i większej roli Alice.",
+      "malIds": [
+        39597
+      ],
+      "entries": [
+        {
+          "malId": 39597,
+          "title": "Sword Art Online: Alicization - War of Underworld",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39597",
+          "catalogUrl": "https://anilist.co/anime/108759",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, fantasy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=178s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-13",
+      "year": 2019,
+      "title": "JoJo’s Bizarre Adventure: Golden Wind",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Kontynuacja; muzyka",
+      "rank": null,
+      "seconds": 1116,
+      "note": "Wyróżnione widowiskowe momenty oraz motyw muzyczny Giorna.",
+      "malIds": [
+        37991
+      ],
+      "entries": [
+        {
+          "malId": 37991,
+          "title": "JoJo's Bizarre Adventure: Golden Wind",
+          "year": 2018,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mystery",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37991",
+          "catalogUrl": "https://anilist.co/anime/102883",
+          "userStatus": "Completed",
+          "statusLabel": "✓ Obejrzane",
+          "watchedEpisodes": 39,
+          "completed": true
+        }
+      ],
+      "completed": true,
+      "userStatus": "Completed",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, tajemnica",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1116s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-14",
+      "year": 2019,
+      "title": "Fire Force",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Animacja akcji",
+      "rank": null,
+      "seconds": 1157,
+      "note": "Pochwała animacji; krytyka fanserwisu przerywającego poważne sceny.",
+      "malIds": [
+        38671
+      ],
+      "entries": [
+        {
+          "malId": 38671,
+          "title": "Fire Force",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38671",
+          "catalogUrl": "https://anilist.co/anime/105310",
+          "userStatus": "Dropped",
+          "statusLabel": "◐ Porzucone (11 odc.)",
+          "watchedEpisodes": 11,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Partial",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, SF, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1157s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-15",
+      "year": 2019,
+      "title": "Dr. Stone",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Pomysł i nauka",
+      "rank": null,
+      "seconds": 1349,
+      "note": "Pochwała wynalazków; zastrzeżenia do konfliktów i walk.",
+      "malIds": [
+        38691
+      ],
+      "entries": [
+        {
+          "malId": 38691,
+          "title": "Dr. STONE",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38691",
+          "catalogUrl": "https://anilist.co/anime/105333",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, komedia, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1349s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-16",
+      "year": 2019,
+      "title": "No Guns Life",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Cyberpunk",
+      "rank": null,
+      "seconds": 1400,
+      "note": "Wyróżniona, niedostrzeżona historia detektywistyczna w cyberpunkowym świecie.",
+      "malIds": [
+        39539
+      ],
+      "entries": [
+        {
+          "malId": 39539,
+          "title": "No Guns Life",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39539",
+          "catalogUrl": "https://anilist.co/anime/108478",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, dramat, SF",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1400s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-17",
+      "year": 2019,
+      "title": "Dororo (2019)",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Remake",
+      "rank": null,
+      "seconds": 1415,
+      "note": "Pochwalony remake samurajskiej opowieści z lat 60.",
+      "malIds": [
+        37520
+      ],
+      "entries": [
+        {
+          "malId": 37520,
+          "title": "Dororo",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37520",
+          "catalogUrl": "https://anilist.co/anime/101347",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "akcja, przygodowy, dramat, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1415s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-18",
+      "year": 2019,
+      "title": "Stars Align / Hoshiai no Sora",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Dramat sportowy",
+      "rank": null,
+      "seconds": 1433,
+      "note": "Obiecujący dramat z przerwaną w połowie historią.",
+      "malIds": [
+        37972
+      ],
+      "entries": [
+        {
+          "malId": 37972,
+          "title": "Stars Align",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Drama",
+            "Slice of Life",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/37972",
+          "catalogUrl": "https://anilist.co/anime/104052",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "dramat, obyczajowy, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=1433s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-19",
+      "year": 2019,
+      "title": "How Heavy Are the Dumbbells You Lift?",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Osobisty wpływ",
+      "rank": null,
+      "seconds": 747,
+      "note": "Serial skłonił Gigguka do rozpoczęcia ćwiczeń na siłowni.",
+      "malIds": [
+        39026
+      ],
+      "entries": [
+        {
+          "malId": 39026,
+          "title": "How Heavy Are the Dumbbells You Lift?",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Slice of Life",
+            "Sports"
+          ],
+          "malUrl": "https://myanimelist.net/anime/39026",
+          "catalogUrl": "https://anilist.co/anime/107226",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, ecchi, obyczajowy, sportowy",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=747s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-20",
+      "year": 2019,
+      "title": "The Helpful Fox Senko-san",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Kojąca codzienność",
+      "rank": null,
+      "seconds": 669,
+      "note": "Krótka pochwała kojącego charakteru serialu.",
+      "malIds": [
+        38759
+      ],
+      "entries": [
+        {
+          "malId": 38759,
+          "title": "The Helpful Fox Senko-san",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38759",
+          "catalogUrl": "https://anilist.co/anime/105914",
+          "userStatus": "Absent",
+          "statusLabel": "— Brak wpisu",
+          "watchedEpisodes": 0,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Absent",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, fantasy, obyczajowy, nadprzyrodzony",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=669s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2019-21",
+      "year": 2019,
+      "title": "ORESUKI: Are you the only one who loves me?",
+      "category": "honorable",
+      "categoryLabel": "Honorable mention",
+      "place": "Komedia haremowa",
+      "rank": null,
+      "seconds": 645,
+      "note": "Pochwała przewrotnego podejścia do schematów haremu.",
+      "malIds": [
+        38483
+      ],
+      "entries": [
+        {
+          "malId": 38483,
+          "title": "ORESUKI: Are you the only one who loves me?",
+          "year": 2019,
+          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "malUrl": "https://myanimelist.net/anime/38483",
+          "catalogUrl": "https://anilist.co/anime/104464",
+          "userStatus": "Dropped",
+          "statusLabel": "◐ Porzucone (7 odc.)",
+          "watchedEpisodes": 7,
+          "completed": false
+        }
+      ],
+      "completed": false,
+      "userStatus": "Partial",
+      "core": false,
+      "format": "serial TV",
+      "genre": "komedia, dramat, ecchi, romans",
+      "videoUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4",
+      "segmentUrl": "https://www.youtube.com/watch?v=OavIyTKL3L4&t=645s",
+      "indexUrl": "https://giggukdb.com/?video=OavIyTKL3L4"
+    },
+    {
+      "id": "gigguk-2018-40",
       "year": 2018,
       "title": "A Place Further than the Universe",
       "category": "wybor",
@@ -4549,7 +5446,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-20",
+      "id": "gigguk-2018-41",
       "year": 2018,
       "title": "SSSS.Gridman",
       "category": "wybor",
@@ -4590,7 +5487,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-21",
+      "id": "gigguk-2018-42",
       "year": 2018,
       "title": "Megalo Box",
       "category": "wybor",
@@ -4632,7 +5529,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-22",
+      "id": "gigguk-2018-43",
       "year": 2018,
       "title": "Violet Evergarden",
       "category": "wybor",
@@ -4673,7 +5570,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-23",
+      "id": "gigguk-2018-44",
       "year": 2018,
       "title": "Devilman Crybaby",
       "category": "wybor",
@@ -4716,7 +5613,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-24",
+      "id": "gigguk-2018-45",
       "year": 2018,
       "title": "That Time I Got Reincarnated as a Slime",
       "category": "wybor",
@@ -4758,7 +5655,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-25",
+      "id": "gigguk-2018-46",
       "year": 2018,
       "title": "Rascal Does Not Dream of Bunny Girl Senpai",
       "category": "wybor",
@@ -4802,7 +5699,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-26",
+      "id": "gigguk-2018-47",
       "year": 2018,
       "title": "Bloom Into You",
       "category": "wybor",
@@ -4843,7 +5740,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-27",
+      "id": "gigguk-2018-48",
       "year": 2018,
       "title": "Boruto: Naruto Next Generations",
       "category": "wybor",
@@ -4884,7 +5781,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-28",
+      "id": "gigguk-2018-49",
       "year": 2018,
       "title": "Banana Fish",
       "category": "wybor",
@@ -4926,7 +5823,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-29",
+      "id": "gigguk-2018-50",
       "year": 2018,
       "title": "Dragon Pilot: Hisone and Masotan",
       "category": "honorable",
@@ -4969,7 +5866,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-30",
+      "id": "gigguk-2018-51",
       "year": 2018,
       "title": "Hi Score Girl",
       "category": "honorable",
@@ -5010,7 +5907,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-31",
+      "id": "gigguk-2018-52",
       "year": 2018,
       "title": "My Hero Academia — sezon 3",
       "category": "kandydat",
@@ -5052,7 +5949,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-32",
+      "id": "gigguk-2018-53",
       "year": 2018,
       "title": "Attack on Titan — sezon 3",
       "category": "kandydat",
@@ -5094,7 +5991,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-33",
+      "id": "gigguk-2018-54",
       "year": 2018,
       "title": "Black Clover",
       "category": "kandydat",
@@ -5136,7 +6033,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-34",
+      "id": "gigguk-2018-55",
       "year": 2018,
       "title": "Sword Art Online Alternative: Gun Gale Online",
       "category": "kandydat",
@@ -5176,7 +6073,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-35",
+      "id": "gigguk-2018-56",
       "year": 2018,
       "title": "JoJo’s Bizarre Adventure: Golden Wind",
       "category": "kandydat",
@@ -5219,7 +6116,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-36",
+      "id": "gigguk-2018-57",
       "year": 2018,
       "title": "Zombie Land Saga",
       "category": "kandydat",
@@ -5260,7 +6157,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-37",
+      "id": "gigguk-2018-58",
       "year": 2018,
       "title": "Pop Team Epic",
       "category": "kandydat",
@@ -5299,7 +6196,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-38",
+      "id": "gigguk-2018-59",
       "year": 2018,
       "title": "Persona 5 the Animation",
       "category": "kandydat",
@@ -5340,7 +6237,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-39",
+      "id": "gigguk-2018-60",
       "year": 2018,
       "title": "Kokkoku",
       "category": "kandydat",
@@ -5384,7 +6281,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-40",
+      "id": "gigguk-2018-61",
       "year": 2018,
       "title": "FLCL Progressive",
       "category": "kandydat",
@@ -5426,7 +6323,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2018-41",
+      "id": "gigguk-2018-62",
       "year": 2018,
       "title": "FLCL Alternative",
       "category": "kandydat",
@@ -5468,7 +6365,7 @@
       "indexUrl": "https://giggukdb.com/?video=4kSjq35b5K4"
     },
     {
-      "id": "gigguk-2017-1",
+      "id": "gigguk-2017-22",
       "year": 2017,
       "title": "Made in Abyss",
       "category": "wybor",
@@ -5512,7 +6409,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-2",
+      "id": "gigguk-2017-23",
       "year": 2017,
       "title": "Land of the Lustrous",
       "category": "wybor",
@@ -5555,7 +6452,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-3",
+      "id": "gigguk-2017-24",
       "year": 2017,
       "title": "My Hero Academia — sezon 2",
       "category": "wybor",
@@ -5596,7 +6493,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-4",
+      "id": "gigguk-2017-25",
       "year": 2017,
       "title": "Re:CREATORS",
       "category": "wybor",
@@ -5639,7 +6536,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-5",
+      "id": "gigguk-2017-26",
       "year": 2017,
       "title": "The Ancient Magus’ Bride",
       "category": "wybor",
@@ -5682,7 +6579,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-6",
+      "id": "gigguk-2017-27",
       "year": 2017,
       "title": "Descending Stories: Showa Genroku Rakugo Shinju",
       "category": "wybor",
@@ -5721,7 +6618,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-7",
+      "id": "gigguk-2017-28",
       "year": 2017,
       "title": "Neo Yokio",
       "category": "wybor",
@@ -5742,7 +6639,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-8",
+      "id": "gigguk-2017-29",
       "year": 2017,
       "title": "A Silent Voice",
       "category": "wybor",
@@ -5783,7 +6680,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-9",
+      "id": "gigguk-2017-30",
       "year": 2017,
       "title": "Little Witch Academia — serial TV",
       "category": "wybor",
@@ -5823,7 +6720,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-10",
+      "id": "gigguk-2017-31",
       "year": 2017,
       "title": "Girls’ Last Tour",
       "category": "wybor",
@@ -5864,7 +6761,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-11",
+      "id": "gigguk-2017-32",
       "year": 2017,
       "title": "Tsuki ga Kirei",
       "category": "wybor",
@@ -5905,7 +6802,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-12",
+      "id": "gigguk-2017-33",
       "year": 2017,
       "title": "Boruto: Naruto Next Generations",
       "category": "kandydat",
@@ -5946,7 +6843,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-13",
+      "id": "gigguk-2017-34",
       "year": 2017,
       "title": "Fate/Apocrypha",
       "category": "kandydat",
@@ -5988,7 +6885,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-14",
+      "id": "gigguk-2017-35",
       "year": 2017,
       "title": "Attack on Titan — sezon 2",
       "category": "kandydat",
@@ -6030,7 +6927,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-15",
+      "id": "gigguk-2017-36",
       "year": 2017,
       "title": "Kizumonogatari III: Reiketsu-hen",
       "category": "kandydat",
@@ -6074,7 +6971,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-16",
+      "id": "gigguk-2017-37",
       "year": 2017,
       "title": "March Comes in Like a Lion — sezony 1–2",
       "category": "kandydat",
@@ -6131,7 +7028,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-17",
+      "id": "gigguk-2017-38",
       "year": 2017,
       "title": "Recovery of an MMO Junkie",
       "category": "kandydat",
@@ -6173,7 +7070,7 @@
       "indexUrl": "https://giggukdb.com/?video=NPA26WLzQ7Y"
     },
     {
-      "id": "gigguk-2017-18",
+      "id": "gigguk-2017-39",
       "year": 2017,
       "title": "Tsuredure Children",
       "category": "kandydat",

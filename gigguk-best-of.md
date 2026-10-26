@@ -1,6 +1,6 @@
 # Gigguk — Best of Anime
 
-Osiem rocznych filmów „Best of Anime”: 2017, 2018 i 2020–2025. 143 wpisów w rocznikach, w tym 28 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.
+Dziewięć rocznych podsumowań z lat 2017–2025, w tym „Anime in 2019”. 164 wpisów w rocznikach, w tym 39 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.
 
 Zachowano honorable mentions. Pochwalone kontynuacje pominięte w głównym rankingu także oznaczono jako wyróżnienia. W starszych filmach wybory dotyczą nieraz wyłącznie muzyki, animacji lub jednej walki; nie oznaczają rekomendacji całego serialu. Reklam, negatywnych przykładów, zwykłych porównań i fałszywych zwycięzców użytych wyłącznie jako żart nie włączono.
 
@@ -8,9 +8,11 @@ Ta zakładka odtwarza wybory Gigguka, dlatego nie stosuje progu ocen i popularno
 
 Status pochodzi z lokalnego anime-list.json. Przy kilku częściach podano osobny status każdej: „Obejrzane” dla całego wpisu wymaga ukończenia wszystkich wskazanych części. „Brak wpisu” nie rozstrzyga, czy oglądałeś tytuł. Status dotyczy całego rekordu MAL, także gdy Gigguk omawiał tylko dostępną wtedy część emisji.
 
-Nie znaleziono osobnych „Best of Anime 2019” ani „Best of Anime 2026”. Przeglądy „Anime in…” mają inny zakres i nie są tutaj traktowane jako rankingi. W 2021 dodatkowym wyborem „animacji roku” było Arcane; w 2020 finał dotyczył VTuberów. Te wzmianki pozostają poza tabelą anime.
+„Anime in 2019” (publikacja 22.01.2020) zawiera osobistych faworytów i wybór Vinland Saga jako anime roku. Nie ma numerowanego rankingu pozostałych tytułów: „Główny wybór” oznacza tutaj mocno wyróżnione dzieła, a „Honorable mention” dodatkowe pochwalone pozycje — to kategorie porządkujące atlasu, nie nazwy nagród z filmu. Nie uwzględniono sekcji negatywnych przykładów, zwykłych porównań ani seriali, których Gigguk przyznaje, że jeszcze nie obejrzał. Ogólnej wzmianki o Psycho-Pass nie przypisano arbitralnie do konkretnego sezonu.
 
-Źródła: opisy i rozdziały filmów, nieoficjalny indeks wypowiedzi Gigguk Database oraz pomocnicze spisy widzów. Nie wykonano pełnego odsłuchu ośmiu filmów, więc nie gwarantujemy wychwycenia każdego krótkiego napisu ekranowego. Linki czasowe z indeksu prowadzą do wypowiedzi, nie zawsze do początku rozdziału. Stan opracowania: 5 października 2026.
+Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jeszcze trwa. W 2021 dodatkowym wyborem „animacji roku” było Arcane; w 2020 finał dotyczył VTuberów. Te wzmianki pozostają poza tabelą anime.
+
+Źródła: opisy i rozdziały filmów, transkrypcja YouTube dla 2019, nieoficjalny indeks wypowiedzi Gigguk Database oraz pomocnicze spisy widzów. Rocznik 2019 sprawdzono na podstawie pełnej transkrypcji i opisu autora. Pozostałe osiem filmów opracowano bez pełnego odsłuchu; krótkie napisy ekranowe mogą być pominięte. Linki czasowe prowadzą do wypowiedzi, nie zawsze do początku rozdziału. Aktualizacja 2019: 26 października 2026; pozostałe roczniki: 5 października 2026.
 
 ## 2025
 
@@ -156,6 +158,34 @@ Nie znaleziono osobnych „Best of Anime 2019” ani „Best of Anime 2026”. P
 | Główny wybór: Główne zestawienie | TONIKAWA: Over the Moon for You | serial TV · komedia, romans, obyczajowy | Wyróżnienie ciepłego romansu o wspólnym życiu. | [MAL](https://myanimelist.net/anime/41389): — Brak wpisu | [6:31](https://www.youtube.com/watch?v=F2Uau5wOngY&t=391s) |
 | Wyróżnienie kategorii / kandydat: Najlepsza animowana walka | Hitori no Shita: The Outcast — sezon 3 | serial ONA · akcja, dramat, tajemnica, psychologiczny | Wyróżnienie choreografii walki z chińskiego serialu. | [MAL](https://myanimelist.net/anime/38536): — Brak wpisu | [6:13](https://www.youtube.com/watch?v=F2Uau5wOngY&t=373s) |
 
+## 2019
+
+[Anime in 2019](https://www.youtube.com/watch?v=OavIyTKL3L4) — opublikowano 2020-01-22. [Indeks wypowiedzi](https://giggukdb.com/?video=OavIyTKL3L4).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Główny wybór: 1 | Vinland Saga | serial TV · akcja, przygodowy, dramat | Anime roku; szczególne uznanie dla postaci Askeladda. | [MAL](https://myanimelist.net/anime/37521): — Brak wpisu | [24:47](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1487s) |
+| Główny wybór: Kandydat do anime roku | Mob Psycho 100 II | serial TV · akcja, komedia, dramat, psychologiczny | Pochwała animacji i emocjonalnej relacji Moba z Reigenem. | [MAL](https://myanimelist.net/anime/37510): — Brak wpisu | [15:58](https://www.youtube.com/watch?v=OavIyTKL3L4&t=958s) |
+| Główny wybór: Kandydat do anime roku | Attack on Titan — sezon 3, część 2 | serial TV · akcja, dramat, fantasy, tajemnica | Wyróżnienie za napięcie i rozwiązanie tajemnic serii. | [MAL](https://myanimelist.net/anime/38524): ✓ Obejrzane | [16:49](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1009s) |
+| Główny wybór: Ulubiony dramat szkolny; muzyka | **Beastars** | serial TV · dramat, tajemnica, psychologiczny, romans | Ulubiony dramat szkolny; pochwała reżyserii, głosów i 3D. | [MAL](https://myanimelist.net/anime/39195): — Brak wpisu | [13:15](https://www.youtube.com/watch?v=OavIyTKL3L4&t=795s) |
+| Główny wybór: Komedia romantyczna | Kaguya-sama: Love Is War | serial TV · komedia, psychologiczny, romans, obyczajowy | Wyróżnione gry psychologiczne i relacja głównych bohaterów. | [MAL](https://myanimelist.net/anime/37999): ✓ Obejrzane | [11:21](https://www.youtube.com/watch?v=OavIyTKL3L4&t=681s) |
+| Główny wybór: Niedoceniona perełka roku | O Maidens in Your Savage Season | serial TV · komedia, dramat, romans, obyczajowy | Pochwała szczerego i zabawnego ujęcia dojrzewania. | [MAL](https://myanimelist.net/anime/38753): — Brak wpisu | [12:03](https://www.youtube.com/watch?v=OavIyTKL3L4&t=723s) |
+| Główny wybór: Zaskoczenie roku wśród isekai | Isekai Quartet | serial TV — krótkie odcinki · komedia, fantasy, obyczajowy | Nieoczekiwanie udana komedia dialogów i spotkania bohaterów. | [MAL](https://myanimelist.net/anime/38472): — Brak wpisu | [3:42](https://www.youtube.com/watch?v=OavIyTKL3L4&t=222s) |
+| Główny wybór: Muzyka | Carole & Tuesday | serial TV · dramat, muzyczny, SF | Wyjątkowa produkcja muzyczna; zastrzeżenia do scenariusza. | [MAL](https://myanimelist.net/anime/37435): — Brak wpisu | [5:54](https://www.youtube.com/watch?v=OavIyTKL3L4&t=354s) |
+| Główny wybór: Przełomowy hit; kandydat do anime roku | Demon Slayer | serial TV · akcja, przygodowy, dramat, fantasy | Wyróżniony odcinek 19; ostrożność wobec przesadnych zachwytów. | [MAL](https://myanimelist.net/anime/38000): ✓ Obejrzane | [19:41](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1181s) |
+| Główny wybór: Thriller | The Promised Neverland — sezon 1 | serial TV · dramat, fantasy, horror, tajemnica | Pochwała napięcia, pomysłu i zwrotów akcji. | [MAL](https://myanimelist.net/anime/37779): ✓ Obejrzane | [20:53](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1253s) |
+| Honorable mention: Dodatkowe wyróżnienie: isekai | The Rising of the Shield Hero | serial TV · akcja, przygodowy, fantasy | Satysfakcjonujący odwet mimo uproszczeń w charakterystyce postaci. | [MAL](https://myanimelist.net/anime/35790): ✓ Obejrzane | [2:13](https://www.youtube.com/watch?v=OavIyTKL3L4&t=133s) |
+| Honorable mention: Dodatkowe wyróżnienie: isekai | Sword Art Online: Alicization — War of Underworld | serial TV · akcja, przygodowy, dramat, fantasy | Pochwała rozrywkowości i większej roli Alice. | [MAL](https://myanimelist.net/anime/39597): — Brak wpisu | [2:58](https://www.youtube.com/watch?v=OavIyTKL3L4&t=178s) |
+| Honorable mention: Kontynuacja; muzyka | JoJo’s Bizarre Adventure: Golden Wind | serial TV · akcja, przygodowy, dramat, tajemnica | Wyróżnione widowiskowe momenty oraz motyw muzyczny Giorna. | [MAL](https://myanimelist.net/anime/37991): ✓ Obejrzane | [18:36](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1116s) |
+| Honorable mention: Animacja akcji | Fire Force | serial TV · akcja, dramat, SF, nadprzyrodzony | Pochwała animacji; krytyka fanserwisu przerywającego poważne sceny. | [MAL](https://myanimelist.net/anime/38671): ◐ Porzucone (11 odc.) | [19:17](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1157s) |
+| Honorable mention: Pomysł i nauka | Dr. Stone | serial TV · akcja, przygodowy, komedia, SF | Pochwała wynalazków; zastrzeżenia do konfliktów i walk. | [MAL](https://myanimelist.net/anime/38691): — Brak wpisu | [22:29](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1349s) |
+| Honorable mention: Cyberpunk | No Guns Life | serial TV · akcja, dramat, SF | Wyróżniona, niedostrzeżona historia detektywistyczna w cyberpunkowym świecie. | [MAL](https://myanimelist.net/anime/39539): — Brak wpisu | [23:20](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1400s) |
+| Honorable mention: Remake | Dororo (2019) | serial TV · akcja, przygodowy, dramat, nadprzyrodzony | Pochwalony remake samurajskiej opowieści z lat 60. | [MAL](https://myanimelist.net/anime/37520): — Brak wpisu | [23:35](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1415s) |
+| Honorable mention: Dramat sportowy | Stars Align / Hoshiai no Sora | serial TV · dramat, obyczajowy, sportowy | Obiecujący dramat z przerwaną w połowie historią. | [MAL](https://myanimelist.net/anime/37972): — Brak wpisu | [23:53](https://www.youtube.com/watch?v=OavIyTKL3L4&t=1433s) |
+| Honorable mention: Osobisty wpływ | How Heavy Are the Dumbbells You Lift? | serial TV · komedia, ecchi, obyczajowy, sportowy | Serial skłonił Gigguka do rozpoczęcia ćwiczeń na siłowni. | [MAL](https://myanimelist.net/anime/39026): — Brak wpisu | [12:27](https://www.youtube.com/watch?v=OavIyTKL3L4&t=747s) |
+| Honorable mention: Kojąca codzienność | The Helpful Fox Senko-san | serial TV · komedia, fantasy, obyczajowy, nadprzyrodzony | Krótka pochwała kojącego charakteru serialu. | [MAL](https://myanimelist.net/anime/38759): — Brak wpisu | [11:09](https://www.youtube.com/watch?v=OavIyTKL3L4&t=669s) |
+| Honorable mention: Komedia haremowa | ORESUKI: Are you the only one who loves me? | serial TV · komedia, dramat, ecchi, romans | Pochwała przewrotnego podejścia do schematów haremu. | [MAL](https://myanimelist.net/anime/38483): ◐ Porzucone (7 odc.) | [10:45](https://www.youtube.com/watch?v=OavIyTKL3L4&t=645s) |
+
 ## 2018
 
 [Best of Anime 2018](https://www.youtube.com/watch?v=4kSjq35b5K4) — opublikowano 2019-01-24. [Indeks wypowiedzi](https://giggukdb.com/?video=4kSjq35b5K4).
@@ -213,6 +243,7 @@ Nie znaleziono osobnych „Best of Anime 2019” ani „Best of Anime 2026”. P
 
 ## Weryfikacja i źródła pomocnicze
 
+- [Spis / dyskusja 2019](https://www.youtube.com/watch?v=OavIyTKL3L4)
 - [Spis / dyskusja 2021](https://www.reddit.com/r/anime/comments/sb4hpt/best_of_anime_2021_gigguk/)
 - [Spis / dyskusja 2022](https://www.reddit.com/r/anime/comments/10oh1ru/best_of_anime_2022_by_gigguk/)
 - [Spis / dyskusja 2023](https://www.youtube.com/watch?v=JhVPJ2J0sz8)
@@ -220,4 +251,4 @@ Nie znaleziono osobnych „Best of Anime 2019” ani „Best of Anime 2026”. P
 - [Spis / dyskusja 2025](https://www.reddit.com/r/anime/comments/1ql56sy/best_of_anime_2025_gigguk/)
 - [Inwentarz filmów kanału](https://thetvdb.com/series/gigguk/allseasons/official)
 
-Ręczna selekcja na podstawie rozdziałów i opisów filmów, indeksu wypowiedzi Gigguk Database oraz pomocniczych spisów widzów. Indeks jest nieoficjalny i zawiera automatyczne klasyfikacje; jego identyfikatorów anime nie przeniesiono bezkrytycznie. Rozpoznano m.in. odniesienie do Boruto błędnie przypisane Naruto oraz nazwy franczyz zamiast konkretnych sezonów. Nie przeprowadzono pełnego odsłuchu wszystkich ośmiu filmów; zwłaszcza krótkie napisy ekranowe mogą nie być ujęte w indeksie.
+Rocznik 2019: pełna angielska transkrypcja YouTube i opis autora, odczyt 26.10.2026. Pozostałe roczniki: opisy, rozdziały, indeks Gigguk Database i pomocnicze spisy widzów, stan 05.10.2026. W 2019 tylko Vinland Saga ma miejsce 1; inne wpisy opisują wyróżnienia bez wymyślonego rankingu. Honorable mentions w tym roczniku to redakcyjna kategoria dodatkowych pochwał. Nie przeprowadzono pełnego odsłuchu wszystkich filmów; krótkie napisy ekranowe mogą nie być ujęte.

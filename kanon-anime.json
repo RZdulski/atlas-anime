@@ -16212,13 +16212,13 @@
     }
   ],
   "gigguk": {
-    "date": "2026-10-05",
+    "date": "2026-10-26",
     "stats": {
-      "appearances": 143,
-      "malEntries": 145,
-      "years": 8,
-      "completed": 54,
-      "honorable": 28,
+      "appearances": 164,
+      "malEntries": 165,
+      "years": 9,
+      "completed": 60,
+      "honorable": 39,
       "categoryMentions": 19
     },
     "file": "gigguk-best-of.json"
