@@ -1,8 +1,8 @@
 # Gigguk — Best of Anime
 
-Dziewięć rocznych podsumowań z lat 2017–2025, w tym „Anime in 2019”. 164 wpisów w rocznikach, w tym 39 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.
+21 filmów: roczniki 2013–2025 oraz esej o dekadzie 2010–2019. 297 wpisów, w tym 39 honorable mentions oraz 19 dodatkowych wyróżnień kategorii i kandydatów. Ten sam tytuł może wystąpić w kilku latach. Rok oznacza rok podsumowania, a nie zawsze rok premiery.
 
-Zachowano honorable mentions. Pochwalone kontynuacje pominięte w głównym rankingu także oznaczono jako wyróżnienia. W starszych filmach wybory dotyczą nieraz wyłącznie muzyki, animacji lub jednej walki; nie oznaczają rekomendacji całego serialu. Reklam, negatywnych przykładów, zwykłych porównań i fałszywych zwycięzców użytych wyłącznie jako żart nie włączono.
+Zachowano honorable mentions. Pochwalone kontynuacje pominięte w głównym rankingu także oznaczono jako wyróżnienia. W starszych filmach wybory dotyczą nieraz wyłącznie muzyki, animacji lub jednej walki; nie oznaczają rekomendacji całego serialu. Do potwierdzonych wyróżnień nie włączono reklam, negatywnych przykładów, zwykłych porównań i fałszywych zwycięzców użytych wyłącznie jako żart. Osobno pokazano nieocenione spisy z dwóch opisów autora.
 
 Ta zakładka odtwarza wybory Gigguka, dlatego nie stosuje progu ocen i popularności z głównego kanonu. Pogrubienie nadal oznacza przynależność do rdzenia kanonu, a nie miejsce u Gigguka. Komentarze są krótkimi objaśnieniami, nie cytatami ani oceną zgodności z Twoim gustem.
 
@@ -12,9 +12,13 @@ Status pochodzi z lokalnego anime-list.json. Przy kilku częściach podano osobn
 
 Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jeszcze trwa. W 2021 dodatkowym wyborem „animacji roku” było Arcane; w 2020 finał dotyczył VTuberów. Te wzmianki pozostają poza tabelą anime.
 
-Źródła: opisy i rozdziały filmów, transkrypcja YouTube dla 2019, nieoficjalny indeks wypowiedzi Gigguk Database oraz pomocnicze spisy widzów. Rocznik 2019 sprawdzono na podstawie pełnej transkrypcji i opisu autora. Pozostałe osiem filmów opracowano bez pełnego odsłuchu; krótkie napisy ekranowe mogą być pominięte. Linki czasowe prowadzą do wypowiedzi, nie zawsze do początku rozdziału. Aktualizacja 2019: 26 października 2026; pozostałe roczniki: 5 października 2026.
+Przeglądy „Anime in…” nie są numerowanymi rankingami. Kategoria „Wyróżnienie w przeglądzie roku” obejmuje pochwały, także z zastrzeżeniami; nie przypisuje miejsc. Esej „2010s: The Decade Anime Grew Up” opisuje wpływ marek w latach 2010–2019. Ukazał się w 2020, ale nie jest zestawieniem premier 2020. Pochwały marek połączono z odpowiednimi częściami MAL z dekady.
 
-## 2025
+Dla 2013 część 2 i 2014 część 1 potwierdzono tylko spisy anime w opisach autora. Ich 37 pozycji ma oddzielną kategorię „Spis autora — ocena niepotwierdzona”: obecność nie oznacza rekomendacji, a lista zawiera także tytuły, które mogły być krytykowane. Nie nadano im miejsc ani znaczników czasu. RWBY oznacza oryginalną animację amerykańską, nie japońskie Ice Queendom.
+
+Źródła: opisy filmów autora, transkrypcja YouTube dla 2019, nieoficjalny indeks wypowiedzi Gigguk Database i pomocnicze spisy widzów. Dla dodanych starszych filmów YouTube nie udostępnił transkrypcji podczas sprawdzania. Wyróżnienia i znaczniki czasu odtworzono z indeksu wypowiedzi, bez pełnego odsłuchu; możliwe są pominięcia. Dwie części bez indeksu mają jawnie niepotwierdzoną ocenę. Linki czasowe nie zawsze wskazują początek rozdziału. Aktualizacja: 28 października 2026.
+
+## Best of Anime 2025
 
 [Best of Anime 2025](https://www.youtube.com/watch?v=lymfyRBPd14) — opublikowano 2026-01-23. [Indeks wypowiedzi](https://giggukdb.com/?video=lymfyRBPd14).
 
@@ -38,7 +42,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Honorable mention: Wyróżniony film poza rankingiem seriali | Chainsaw Man — The Movie: Reze Arc | film · akcja, dramat, horror, romans | Film mógłby znaleźć się w ścisłej czołówce. | [MAL](https://myanimelist.net/anime/57555): ✓ Obejrzane | [6:48](https://www.youtube.com/watch?v=lymfyRBPd14&t=408s) |
 | Honorable mention: Wyróżniony film poza rankingiem seriali | 100 Meters / Hyakuemu. | film · dramat, sportowy | Film mógłby znaleźć się w ścisłej czołówce. | [MAL](https://myanimelist.net/anime/58919): □ Planowane | [7:07](https://www.youtube.com/watch?v=lymfyRBPd14&t=427s) |
 
-## 2024
+## Best of Anime 2024
 
 [Best of Anime 2024](https://www.youtube.com/watch?v=rJ1PLLPcWXs) — opublikowano 2025-01-15. [Indeks wypowiedzi](https://giggukdb.com/?video=rJ1PLLPcWXs).
 
@@ -62,7 +66,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Honorable mention: Honorable mention | The Apothecary Diaries — dalszy ciąg sezonu 1 | serial TV · dramat, tajemnica | Doceniona kontynuacja pozycji z poprzedniego rankingu. | [MAL](https://myanimelist.net/anime/54492): □ Planowane | [6:46](https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=406s) |
 | Honorable mention: Honorable mention | **Frieren: Beyond Journey’s End — dalszy ciąg** | serial TV · przygodowy, dramat, fantasy | Doceniona kontynuacja pozycji z poprzedniego rankingu. | [MAL](https://myanimelist.net/anime/52991): ✓ Obejrzane | [6:46](https://www.youtube.com/watch?v=rJ1PLLPcWXs&t=406s) |
 
-## 2023
+## Best of Anime 2023
 
 [Best of Anime 2023](https://www.youtube.com/watch?v=JhVPJ2J0sz8) — opublikowano 2024-01-31. [Indeks wypowiedzi](https://giggukdb.com/?video=JhVPJ2J0sz8).
 
@@ -86,7 +90,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Honorable mention: Wyróżnienie poza główną listą | Undead Unluck | serial TV · akcja, komedia, SF, nadprzyrodzony | Krótka pozytywna wzmianka przed rankingiem. | [MAL](https://myanimelist.net/anime/52741): — Brak wpisu | [2:15](https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=135s) |
 | Honorable mention: Wyróżnienie poza główną listą | Mushoku Tensei — sezon 2, część 1 | serial TV · przygodowy, dramat, ecchi, fantasy | Wzmianka o kontynuacji ulubionej historii isekai. | [MAL](https://myanimelist.net/anime/51179): ✓ Obejrzane | [2:15](https://www.youtube.com/watch?v=JhVPJ2J0sz8&t=135s) |
 
-## 2022
+## Best of Anime 2022
 
 [Best of Anime 2022](https://www.youtube.com/watch?v=xXmXM0qRMbo) — opublikowano 2023-01-29. [Indeks wypowiedzi](https://giggukdb.com/?video=xXmXM0qRMbo).
 
@@ -114,7 +118,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Honorable mention: Wyróżniona kontynuacja poza rankingiem | Bleach: Thousand-Year Blood War — część 1 | serial TV · akcja, przygodowy, nadprzyrodzony | Doceniony powrót serii, bez szerszego omówienia. | [MAL](https://myanimelist.net/anime/41467): □ Planowane | [1:55](https://www.youtube.com/watch?v=xXmXM0qRMbo&t=115s) |
 | Honorable mention: Wyróżniona kontynuacja poza rankingiem | Attack on Titan: The Final Season — część 2 | serial TV · akcja, dramat, fantasy, tajemnica | Pochwała zwrotów fabularnych przed głównym rankingiem. | [MAL](https://myanimelist.net/anime/48583): — Brak wpisu | [2:05](https://www.youtube.com/watch?v=xXmXM0qRMbo&t=125s) |
 
-## 2021
+## Best of Anime 2021
 
 [Best of Anime 2021](https://www.youtube.com/watch?v=5ytnKggHwvY) — opublikowano 2022-01-23. [Indeks wypowiedzi](https://giggukdb.com/?video=5ytnKggHwvY).
 
@@ -141,7 +145,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Honorable mention: Wyróżniona kontynuacja poza rankingiem | Jujutsu Kaisen — dalszy ciąg sezonu 1 | serial TV · akcja, dramat, nadprzyrodzony | Kontynuacja sezonu omówionego w poprzednim zestawieniu. | [MAL](https://myanimelist.net/anime/40748): ✓ Obejrzane | [0:33](https://www.youtube.com/watch?v=5ytnKggHwvY&t=33s) |
 | Honorable mention: Wyróżniona kontynuacja poza rankingiem | Re:Zero — sezon 2, część 2 | serial TV · akcja, przygodowy, dramat, fantasy | Dalszy ciąg zwycięzcy poprzedniego roku. | [MAL](https://myanimelist.net/anime/42203): — Brak wpisu | [0:42](https://www.youtube.com/watch?v=5ytnKggHwvY&t=42s) |
 
-## 2020
+## Best of Anime 2020
 
 [Best of Anime 2020](https://www.youtube.com/watch?v=F2Uau5wOngY) — opublikowano 2021-01-17. [Indeks wypowiedzi](https://giggukdb.com/?video=F2Uau5wOngY).
 
@@ -158,7 +162,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Główny wybór: Główne zestawienie | TONIKAWA: Over the Moon for You | serial TV · komedia, romans, obyczajowy | Wyróżnienie ciepłego romansu o wspólnym życiu. | [MAL](https://myanimelist.net/anime/41389): — Brak wpisu | [6:31](https://www.youtube.com/watch?v=F2Uau5wOngY&t=391s) |
 | Wyróżnienie kategorii / kandydat: Najlepsza animowana walka | Hitori no Shita: The Outcast — sezon 3 | serial ONA · akcja, dramat, tajemnica, psychologiczny | Wyróżnienie choreografii walki z chińskiego serialu. | [MAL](https://myanimelist.net/anime/38536): — Brak wpisu | [6:13](https://www.youtube.com/watch?v=F2Uau5wOngY&t=373s) |
 
-## 2019
+## Anime in 2019
 
 [Anime in 2019](https://www.youtube.com/watch?v=OavIyTKL3L4) — opublikowano 2020-01-22. [Indeks wypowiedzi](https://giggukdb.com/?video=OavIyTKL3L4).
 
@@ -186,7 +190,7 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Honorable mention: Kojąca codzienność | The Helpful Fox Senko-san | serial TV · komedia, fantasy, obyczajowy, nadprzyrodzony | Krótka pochwała kojącego charakteru serialu. | [MAL](https://myanimelist.net/anime/38759): — Brak wpisu | [11:09](https://www.youtube.com/watch?v=OavIyTKL3L4&t=669s) |
 | Honorable mention: Komedia haremowa | ORESUKI: Are you the only one who loves me? | serial TV · komedia, dramat, ecchi, romans | Pochwała przewrotnego podejścia do schematów haremu. | [MAL](https://myanimelist.net/anime/38483): ◐ Porzucone (7 odc.) | [10:45](https://www.youtube.com/watch?v=OavIyTKL3L4&t=645s) |
 
-## 2018
+## Best of Anime 2018
 
 [Best of Anime 2018](https://www.youtube.com/watch?v=4kSjq35b5K4) — opublikowano 2019-01-24. [Indeks wypowiedzi](https://giggukdb.com/?video=4kSjq35b5K4).
 
@@ -216,7 +220,33 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Wyróżnienie kategorii / kandydat: Muzyka — wyróżnienie | FLCL Progressive | serial TV · akcja, komedia, mecha, SF | Pochwała muzyki The Pillows, nie całego sequela. | [MAL](https://myanimelist.net/anime/33010): — Brak wpisu | [9:36](https://www.youtube.com/watch?v=4kSjq35b5K4&t=576s) |
 | Wyróżnienie kategorii / kandydat: Muzyka — wyróżnienie | FLCL Alternative | serial TV · akcja, komedia, mecha, SF | Pochwała muzyki The Pillows, nie całego sequela. | [MAL](https://myanimelist.net/anime/35842): — Brak wpisu | [9:36](https://www.youtube.com/watch?v=4kSjq35b5K4&t=576s) |
 
-## 2017
+## Anime in 2018
+
+[Anime in 2018](https://www.youtube.com/watch?v=OMybzJY5K0Y) — opublikowano 2019-01-01. [Indeks wypowiedzi](https://giggukdb.com/?video=OMybzJY5K0Y).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Przegląd roku | **Devilman Crybaby** | serial ONA · akcja, dramat, horror, psychologiczny | Wyróżniony wielki odzew na premierę, muzykę i styl serialu. | [MAL](https://myanimelist.net/anime/35120): ✓ Obejrzane | [1:26](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=86s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Aggretsuko (ONA) | serial ONA · komedia, muzyczny, obyczajowy | Doceniona trafna komedia o pracy ukryta pod wyglądem uroczych maskotek. | [MAL](https://myanimelist.net/anime/36904): — Brak wpisu | [1:54](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=114s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Sirius the Jaeger | serial TV · akcja, nadprzyrodzony | Pochwała reżyserii akcji; nie oznacza wyróżnienia całego scenariusza. | [MAL](https://myanimelist.net/anime/37569): — Brak wpisu | [2:13](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=133s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | B: The Beginning | serial ONA · akcja, tajemnica, psychologiczny, nadprzyrodzony | Wyróżnione sceny akcji, zwłaszcza walka w deszczu. | [MAL](https://myanimelist.net/anime/32827): — Brak wpisu | [2:13](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=133s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Baki (2018) | serial ONA · akcja, sportowy | Doceniona rozrywkowa przesada walk i bohaterów. | [MAL](https://myanimelist.net/anime/34443): — Brak wpisu | [2:40](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=160s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | That Time I Got Reincarnated as a Slime | serial TV · akcja, przygodowy, komedia, fantasy | Przykład isekai, który przywrócił autorowi radość z gatunku. | [MAL](https://myanimelist.net/anime/37430): — Brak wpisu | [5:41](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=341s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | After the Rain | serial TV · dramat, romans, obyczajowy | Wymieniony wśród pięknych, wciągających opowieści roku. | [MAL](https://myanimelist.net/anime/34984): — Brak wpisu | [10:28](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=628s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Flavors of Youth | film · dramat, romans, obyczajowy | Wyróżniona oprawa wizualna, szczególnie przedstawienie jedzenia. | [MAL](https://myanimelist.net/anime/37396): — Brak wpisu | [10:28](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=628s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Bloom Into You | serial TV · dramat, romans, obyczajowy | Docenione przyziemne i przemyślane podejście do nastoletniej miłości. | [MAL](https://myanimelist.net/anime/37786): — Brak wpisu | [10:37](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=637s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Iroduku: The World in Colors | serial TV · dramat, romans, obyczajowy, nadprzyrodzony | Wyróżnione szczególnie piękne tła. | [MAL](https://myanimelist.net/anime/37497): — Brak wpisu | [10:37](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=637s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Violet Evergarden | serial TV · dramat, fantasy, obyczajowy | Pochwały listów jako osi opowieści i odcinka 10, z zastrzeżeniami do głównej bohaterki. | [MAL](https://myanimelist.net/anime/33352): — Brak wpisu | [11:04](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=664s) |
+| Wyróżnienie w przeglądzie roku: Niedocenione sportowe anime roku | Run with the Wind | serial TV · dramat, sportowy | Osobisty wybór najbardziej niedocenionego anime sportowego roku. | [MAL](https://myanimelist.net/anime/37965): □ Planowane | [15:30](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=930s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Megalobox | serial TV · akcja, dramat, SF, sportowy | Docenione emocje nowej wersji klasycznej historii bokserskiej i muzyka. | [MAL](https://myanimelist.net/anime/36563): ✓ Obejrzane | [15:50](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=950s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Banana Fish | serial TV · akcja, dramat, psychologiczny, Thriller | Pochwała stylowego thrillera kryminalnego studia MAPPA. | [MAL](https://myanimelist.net/anime/36649): — Brak wpisu | [15:50](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=950s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Cells at Work! | serial TV · akcja, komedia, SF | Wyróżnione urocze połączenie rozrywki z wiedzą o organizmie. | [MAL](https://myanimelist.net/anime/37141): — Brak wpisu | [16:00](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=960s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Zombie Land Saga | serial TV · komedia, muzyczny, nadprzyrodzony | Wyjątkowo lubiana przez autora seria o idolkach; krytyka CG podczas występów. | [MAL](https://myanimelist.net/anime/37976): — Brak wpisu | [16:50](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=1010s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | SSSS.Gridman | serial TV · akcja, mecha, SF | Docenione sceny akcji i nietypowo nastrojowa reżyseria. | [MAL](https://myanimelist.net/anime/35847): — Brak wpisu | [17:18](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=1038s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Hinamatsuri | serial TV · komedia, SF, obyczajowy, nadprzyrodzony | Wyróżnione ciepło, komedia i relacje z przybranymi córkami. | [MAL](https://myanimelist.net/anime/36296): □ Planowane | [17:45](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=1065s) |
+| Wyróżnienie w przeglądzie roku: Przegląd roku | Rascal Does Not Dream of Bunny Girl Senpai | serial TV · komedia, dramat, tajemnica, psychologiczny | Historia i dialogi przełamały oczekiwania wywołane prowokacyjnym tytułem. | [MAL](https://myanimelist.net/anime/37450): ✓ Obejrzane | [18:13](https://www.youtube.com/watch?v=OMybzJY5K0Y&t=1093s) |
+
+## Best of Anime 2017
 
 [Best of Anime 2017](https://www.youtube.com/watch?v=NPA26WLzQ7Y) — opublikowano 2018-01-22. [Indeks wypowiedzi](https://giggukdb.com/?video=NPA26WLzQ7Y).
 
@@ -240,6 +270,197 @@ Nie znaleziono rocznego „Best of Anime 2026” na dzień opracowania; rok jesz
 | Wyróżnienie kategorii / kandydat: Dramat — kontrkandydat | March Comes in Like a Lion — sezony 1–2 | serial TV · dramat, obyczajowy | Wspomniany jako mocny, mniej eksponowany dramat. | [March comes in like a lion](https://myanimelist.net/anime/31646): ✓ Obejrzane<br>[March comes in like a lion Season 2](https://myanimelist.net/anime/35180): □ Planowane | [8:52](https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=532s) |
 | Wyróżnienie kategorii / kandydat: Romans — kandydat | Recovery of an MMO Junkie | serial TV · komedia, fantasy, romans, obyczajowy | Pochwała internetowej relacji z zastrzeżeniami do zbiegów okoliczności. | [MAL](https://myanimelist.net/anime/36038): ✓ Obejrzane | [13:13](https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=793s) |
 | Wyróżnienie kategorii / kandydat: Romans — kandydat | Tsuredure Children | serial TV — krótkie odcinki · komedia, dramat, romans, obyczajowy | Wyróżniony komediowy portret kilku par. | [MAL](https://myanimelist.net/anime/34902): — Brak wpisu | [13:25](https://www.youtube.com/watch?v=NPA26WLzQ7Y&t=805s) |
+
+## Anime in 2017 | Part 2
+
+[Anime in 2017 | Part 2](https://www.youtube.com/watch?v=9lIu9iJ0njU) — opublikowano 2017-12-31. [Indeks wypowiedzi](https://giggukdb.com/?video=9lIu9iJ0njU).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 2 | Made in Abyss | serial TV · przygodowy, dramat, fantasy, horror | Wyróżnione budowanie świata, muzyka i poczucie odkrywania. | [MAL](https://myanimelist.net/anime/34599): ✓ Obejrzane | [1:45](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=105s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Tsuredure Children | serial TV — krótkie odcinki · komedia, dramat, romans, obyczajowy | Docenione krótkie historie różnych par, obejmujące także życie po rozpoczęciu związku. | [MAL](https://myanimelist.net/anime/34902): — Brak wpisu | [4:06](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=246s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Gamers! | serial TV · komedia, dramat, romans, obyczajowy | Chwalona komedia romantycznych nieporozumień. | [MAL](https://myanimelist.net/anime/34280): ✓ Obejrzane | [4:51](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=291s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Blood Blockade Battlefront & Beyond | serial TV · akcja, komedia, nadprzyrodzony | Kontynuacja wskazana jako dostarczająca zalet pierwszego sezonu. | [MAL](https://myanimelist.net/anime/34451): — Brak wpisu | [8:29](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=509s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Food Wars! The Third Plate | serial TV · komedia, ecchi | Doceniony powrót sprawdzonej formuły kulinarnej rywalizacji. | [MAL](https://myanimelist.net/anime/35788): ✓ Obejrzane | [8:31](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=511s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | March Comes in Like a Lion 2 | serial TV · dramat, obyczajowy | Wskazana wśród wysoko ocenionych, udanych kontynuacji jesieni. | [MAL](https://myanimelist.net/anime/35180): □ Planowane | [8:33](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=513s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | The Ancient Magus’ Bride | serial TV · dramat, fantasy, romans, obyczajowy | Doceniona magiczna atmosfera świata fantasy. | [MAL](https://myanimelist.net/anime/35062): — Brak wpisu | [9:27](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=567s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Girls’ Last Tour | serial TV · przygodowy, SF, obyczajowy | Wyróżniona kojąca i refleksyjna podróż przez postapokalipsę. | [MAL](https://myanimelist.net/anime/35838): — Brak wpisu | [11:19](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=679s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | **Land of the Lustrous** | serial TV · akcja, dramat, fantasy, tajemnica | Wyróżniona jakość CG, przełamująca oczekiwania wobec techniki. | [MAL](https://myanimelist.net/anime/35557): — Brak wpisu | [11:59](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=719s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Blend S | serial TV · komedia, obyczajowy | Pochwalona lekka komedia obyczajowa, omawiana przez żarty wokół tytułu. | [MAL](https://myanimelist.net/anime/34618): — Brak wpisu | [13:00](https://www.youtube.com/watch?v=9lIu9iJ0njU&t=780s) |
+
+## Anime in 2017 | Part 1
+
+[Anime in 2017 | Part 1](https://www.youtube.com/watch?v=uQZR4zmJDhg) — opublikowano 2017-12-28. [Indeks wypowiedzi](https://giggukdb.com/?video=uQZR4zmJDhg).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 1 | Miss Kobayashi’s Dragon Maid | serial TV · komedia, fantasy, obyczajowy | Pochwały ciepła, humoru i rodzinnych więzi. | [MAL](https://myanimelist.net/anime/33206): — Brak wpisu | [1:26](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=86s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Little Witch Academia (TV) | serial TV · komedia, fantasy | Doceniona seria Triggera, której rozgłos ograniczał ówczesny model dystrybucji Netflixa. | [MAL](https://myanimelist.net/anime/33489): ✓ Obejrzane | [3:16](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=196s) |
+| Wyróżnienie w przeglądzie roku: Kandydat do anime roku | Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen | serial TV · dramat | Bardzo mocna pochwała opowiadania przez postacie i drugiego sezonu jako kandydata do anime roku. | [MAL](https://myanimelist.net/anime/33095): — Brak wpisu | [4:03](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=243s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | KonoSuba 2 | serial TV · przygodowy, komedia, ecchi, fantasy | Doceniony powrót chaotycznych przygód i lubianej obsady. | [MAL](https://myanimelist.net/anime/32937): ✓ Obejrzane | [5:18](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=318s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | My Hero Academia 2 | serial TV · akcja, przygodowy, komedia | Wyróżniony wzrost jakości i popularności wraz z turniejem i walkami. | [MAL](https://myanimelist.net/anime/33486): ✓ Obejrzane | [7:54](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=474s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Boruto: Naruto Next Generations | serial TV · akcja, przygodowy, fantasy | Początek kontynuacji przekroczył oczekiwania i przypomniał urok oryginału; pochwała dotyczy ówczesnego początku emisji. | [MAL](https://myanimelist.net/anime/34566): — Brak wpisu | [10:01](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=601s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Tsuki ga Kirei | serial TV · dramat, romans, obyczajowy | Niedocenione odkrycie sezonu, chwalone za wiarygodny nastoletni romans. | [MAL](https://myanimelist.net/anime/34822): ◐ Porzucone (4 odc.) | [10:26](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=626s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Re:Creators | serial TV · akcja, dramat, fantasy, mecha | Doceniony pomysł spotkania fikcyjnych postaci z ich twórcami. | [MAL](https://myanimelist.net/anime/34561): — Brak wpisu | [10:58](https://www.youtube.com/watch?v=uQZR4zmJDhg&t=658s) |
+
+## Anime in 2016 Part 1 - Winter/Spring
+
+[Anime in 2016 Part 1 - Winter/Spring](https://www.youtube.com/watch?v=q7yMDmQ_1AI) — opublikowano 2016-12-28. [Indeks wypowiedzi](https://giggukdb.com/?video=q7yMDmQ_1AI).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 1 | Grimgar: Ashes and Illusions | serial TV · akcja, przygodowy, dramat, fantasy | Wyróżniona przyziemna perspektywa fantasy: słabi bohaterowie i trudne, małe starcia. | [MAL](https://myanimelist.net/anime/31859): ✓ Obejrzane | [4:34](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=274s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Ajin | serial TV · akcja, horror, tajemnica, nadprzyrodzony | Thriller doceniony za scenariusz mimo zniechęcającej część widzów animacji CG. | [MAL](https://myanimelist.net/anime/31580): ✓ Obejrzane | [4:56](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=296s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | KonoSuba | serial TV · przygodowy, komedia, ecchi, fantasy | Komediowe odkrycie sezonu, chwalone za bohaterów i humor. | [MAL](https://myanimelist.net/anime/30831): ✓ Obejrzane | [5:39](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=339s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Re:Zero | serial TV · akcja, przygodowy, dramat, fantasy | Centralny fenomen sezonu i fandomowych dyskusji, z naciskiem na emocje i cierpienie bohatera. | [MAL](https://myanimelist.net/anime/31240): ✓ Obejrzane | [6:29](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=389s) |
+| Wyróżnienie w przeglądzie roku: Ulubiony serial sezonu | My Hero Academia | serial TV · akcja, przygodowy, komedia | Osobisty faworyt sezonu: klasyczny shounen wykonany z wdziękiem i lubianą obsadą. | [MAL](https://myanimelist.net/anime/31964): ✓ Obejrzane | [7:33](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=453s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Haven’t You Heard? I’m Sakamoto | serial TV · komedia, obyczajowy | Komedia wyróżniona za absurdalnie niewzruszonego i perfekcyjnego bohatera. | [MAL](https://myanimelist.net/anime/32542): — Brak wpisu | [10:45](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=645s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | JoJo’s Bizarre Adventure: Diamond Is Unbreakable | serial TV · akcja, przygodowy, dramat, tajemnica | Wyraźna rekomendacja czwartej części JoJo, połączona z żartami o jej memicznym fandomie. | [MAL](https://myanimelist.net/anime/31933): ✓ Obejrzane | [11:01](https://www.youtube.com/watch?v=q7yMDmQ_1AI&t=661s) |
+
+## Anime in 2016 Part 2 - Summer/Fall
+
+[Anime in 2016 Part 2 - Summer/Fall](https://www.youtube.com/watch?v=eSKLKDkWyqg) — opublikowano 2016-12-31. [Indeks wypowiedzi](https://giggukdb.com/?video=eSKLKDkWyqg).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 2 | Mob Psycho 100 | serial TV · akcja, komedia, dramat, psychologiczny | Wyróżnione animacja, bohaterowie i temat samodoskonalenia. | [MAL](https://myanimelist.net/anime/32182): — Brak wpisu | [2:17](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=137s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Sweetness & Lightning | serial TV · komedia, obyczajowy | Doceniona ciepła historia ojca i córki. | [MAL](https://myanimelist.net/anime/32828): — Brak wpisu | [3:01](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=181s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | 91 Days | serial TV · akcja, dramat, psychologiczny | Wyróżniony przyziemny, mroczny dramat gangsterskiej zemsty. | [MAL](https://myanimelist.net/anime/32998): ✓ Obejrzane | [3:21](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=201s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Orange | serial TV · dramat, romans, nadprzyrodzony | Omówiona emocjonalna historia oparta na listach z przyszłości. | [MAL](https://myanimelist.net/anime/32729): ✓ Obejrzane | [3:44](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=224s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Amanchu! | serial TV · komedia, obyczajowy | Wyróżniona spokojna, odprężająca opowieść obyczajowa. | [MAL](https://myanimelist.net/anime/31771): — Brak wpisu | [4:28](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=268s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | **Yuri!!! on Ice** | serial TV · komedia, dramat, sportowy | Pochwały scen łyżwiarskich i czułej relacji mężczyzn; zastrzeżenia do późniejszej animacji. | [MAL](https://myanimelist.net/anime/32995): — Brak wpisu | [6:30](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=390s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Flip Flappers | serial TV · akcja, przygodowy, komedia, fantasy | Doceniona oryginalna wariacja na magical girls i swoboda animacji. | [MAL](https://myanimelist.net/anime/32979): — Brak wpisu | [9:09](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=549s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Keijo!!!!!!!! | serial TV · komedia, ecchi, sportowy | Wyróżniona skrajnie absurdalna sportowa konwencja i jej widowiskowe wykonanie. | [MAL](https://myanimelist.net/anime/32686): — Brak wpisu | [10:11](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=611s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Drifters | serial TV · akcja, przygodowy, komedia, fantasy | Doceniona przesadzona akcja z postaciami historycznymi w świecie fantasy. | [MAL](https://myanimelist.net/anime/31339): ✓ Obejrzane | [10:58](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=658s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | March Comes in Like a Lion | serial TV · dramat, obyczajowy | Wyróżniony dramat o żałobie i więziach, z mocną narracją wizualną. | [MAL](https://myanimelist.net/anime/31646): ✓ Obejrzane | [11:14](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=674s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Haikyuu!! 3 | serial TV · komedia, dramat, sportowy | Pochwała sportowych emocji; wpis dotyczy trzeciego sezonu. | [MAL](https://myanimelist.net/anime/32935): ✓ Obejrzane | [11:29](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=689s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | All Out!! | serial TV · sportowy | Wspomniany obok Haikyuu jako źródło sportowych emocji sezonu. | [MAL](https://myanimelist.net/anime/31588): — Brak wpisu | [11:29](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=689s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | The Great Passage | serial TV · dramat, romans, obyczajowy | Niedocenione odkrycie: dojrzały dramat o języku, z docenioną reżyserią i muzyką. | [MAL](https://myanimelist.net/anime/32948): — Brak wpisu | [11:39](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=699s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | **Your Name** | film · dramat, romans, nadprzyrodzony | Międzynarodowy fenomen kinowy, który zdominował rozmowy o filmach roku. | [MAL](https://myanimelist.net/anime/32281): ✓ Obejrzane | [12:21](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=741s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | **A Silent Voice** | film · dramat, romans, obyczajowy | Wzruszająca historia, której rozgłos przyćmił sukces Your Name. | [MAL](https://myanimelist.net/anime/28851): ✓ Obejrzane | [12:49](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=769s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Gantz:O | film · akcja, dramat, ecchi, horror | Wskazany jako przykład udanej adaptacji wykonanej w CG. | [MAL](https://myanimelist.net/anime/32071): ✓ Obejrzane | [13:03](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=783s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Shelter | teledysk animowany · SF | Krótki teledysk doceniony za emocjonalną historię i silny odzew w internecie. | [MAL](https://myanimelist.net/anime/34240): — Brak wpisu | [13:08](https://www.youtube.com/watch?v=eSKLKDkWyqg&t=788s) |
+
+## AZ: Anime in 2015 Part 1
+
+[AZ: Anime in 2015 Part 1](https://www.youtube.com/watch?v=p_bHA_cBRoM) — opublikowano 2015-12-27. [Indeks wypowiedzi](https://giggukdb.com/?video=p_bHA_cBRoM).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 1 | Death Parade | serial TV · dramat, tajemnica, psychologiczny, nadprzyrodzony | Wyróżniony pomysł zaświatów oraz pytania o ocenianie ludzkiego życia. | [MAL](https://myanimelist.net/anime/28223): ✓ Obejrzane | [1:30](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=90s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Saekano | serial TV · komedia, romans, obyczajowy | Doceniona samoświadoma gra ze schematami komedii haremowej. | [MAL](https://myanimelist.net/anime/23277): ✓ Obejrzane | [4:34](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=274s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Blood Blockade Battlefront | serial TV · akcja, komedia, nadprzyrodzony | Wyróżniona barwna wizja miasta współdzielonego przez ludzi i nadnaturalne istoty. | [MAL](https://myanimelist.net/anime/24439): — Brak wpisu | [7:46](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=466s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Sound! Euphonium | serial TV · dramat, muzyczny, obyczajowy | Pochwały ciepłej opowieści muzycznej i animacji Kyoto Animation. | [MAL](https://myanimelist.net/anime/27989): ✓ Obejrzane | [8:34](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=514s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Plastic Memories | serial TV · dramat, romans, SF, obyczajowy | Odnotowana siła emocjonalnej historii o ograniczonym wspólnym czasie. | [MAL](https://myanimelist.net/anime/27775): ✓ Obejrzane | [9:40](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=580s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Food Wars! | serial TV · komedia, ecchi | Docenione połączenie pomysłowego gotowania z emocjami turnieju; omówiony także fanserwis. | [MAL](https://myanimelist.net/anime/28171): ✓ Obejrzane | [10:13](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=613s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | My Love Story!! | serial TV · komedia, romans | Wyróżniony szczery, zabawny i wzruszający romans. | [MAL](https://myanimelist.net/anime/28297): — Brak wpisu | [10:44](https://www.youtube.com/watch?v=p_bHA_cBRoM&t=644s) |
+
+## AZ: Anime in 2015 Part 2
+
+[AZ: Anime in 2015 Part 2](https://www.youtube.com/watch?v=HyYC9XQcs0Q) — opublikowano 2016-03-21. [Indeks wypowiedzi](https://giggukdb.com/?video=HyYC9XQcs0Q).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 2 | Overlord | serial TV · akcja, przygodowy, fantasy | Uznany za rozrywkowy mimo znajomego punktu wyjścia i otwartego zakończenia. | [MAL](https://myanimelist.net/anime/29803): ✓ Obejrzane | [3:50](https://www.youtube.com/watch?v=HyYC9XQcs0Q&t=230s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Prison School | serial TV · komedia, ecchi | Wyjątkowo mocna pochwała komedii budowanej na absurdzie i śmiertelnie poważnej inscenizacji. | [MAL](https://myanimelist.net/anime/30240): — Brak wpisu | [4:18](https://www.youtube.com/watch?v=HyYC9XQcs0Q&t=258s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | One Punch Man | serial TV · akcja, komedia, SF, nadprzyrodzony | Fenomen roku doceniony za parodię superbohaterów, akcję i komedię. | [MAL](https://myanimelist.net/anime/30276): ✓ Obejrzane | [7:04](https://www.youtube.com/watch?v=HyYC9XQcs0Q&t=424s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Beautiful Bones: Sakurako’s Investigation | serial TV · tajemnica | Wyróżniony kryminał, którego największą atrakcją jest Sakurako. | [MAL](https://myanimelist.net/anime/30187): — Brak wpisu | [8:37](https://www.youtube.com/watch?v=HyYC9XQcs0Q&t=517s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Mr. Osomatsu | serial TV · komedia, obyczajowy | Chwalona komedia, mniej zauważana przez zachodnich widzów. | [MAL](https://myanimelist.net/anime/31174): — Brak wpisu | [9:18](https://www.youtube.com/watch?v=HyYC9XQcs0Q&t=558s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Digimon Adventure tri. 1: Reunion | film · akcja, przygodowy, dramat, fantasy | Odnotowany nostalgiczny powrót dorastających bohaterów; chodzi o pierwszy film z 2015 roku. | [MAL](https://myanimelist.net/anime/25687): — Brak wpisu | [9:45](https://www.youtube.com/watch?v=HyYC9XQcs0Q&t=585s) |
+
+## AZ: Anime in 2014 Part 1
+
+[AZ: Anime in 2014 Part 1](https://www.youtube.com/watch?v=jpA0DEGEQtM) — opublikowano 2014-12-27. [Indeks wypowiedzi](https://giggukdb.com/?video=jpA0DEGEQtM).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Spis autora — ocena niepotwierdzona: Spis autora | Nisekoi | serial TV · komedia, romans, obyczajowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/18897): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Noragami | serial TV · akcja, przygodowy, komedia, nadprzyrodzony | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20507): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | **Space Dandy** | serial TV · komedia, SF | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20057): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Super Sonico the Animation | serial TV · komedia, ecchi, muzyczny, obyczajowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20555): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Pupa | serial TV — krótkie odcinki · dramat, fantasy, horror, psychologiczny | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/19315): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Golden Time | serial TV · dramat, romans | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/17895): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Nagi no Asukara | serial TV · dramat, fantasy, romans, obyczajowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16067): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Kuroko’s Basketball 2 | serial TV · komedia, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16894): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Kill la Kill | serial TV · akcja, komedia, ecchi | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/18679): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | No Game No Life | serial TV · przygodowy, komedia, ecchi, fantasy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/19815): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | **Ping Pong the Animation** | serial TV · dramat, psychologiczny, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/22135): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Black Bullet | serial TV · akcja, dramat, tajemnica, SF | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20787): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Haikyuu!! | serial TV · komedia, dramat, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20583): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Brynhildr in the Darkness | serial TV · dramat, fantasy, tajemnica, SF | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/21431): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | JoJo’s Bizarre Adventure: Stardust Crusaders | serial TV · akcja, przygodowy, nadprzyrodzony | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20899): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Captain Earth | serial TV · mecha, SF | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/21677): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Chaika: The Coffin Princess | serial TV · akcja, przygodowy, komedia, fantasy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20853): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Mekakucity Actors | serial TV · komedia, romans, SF, nadprzyrodzony | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/21603): — Brak wpisu | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Knights of Sidonia | serial TV · akcja, fantasy, mecha, SF | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/19775): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=jpA0DEGEQtM) |
+
+## AZ: Anime in 2014 Part 2
+
+[AZ: Anime in 2014 Part 2](https://www.youtube.com/watch?v=ng184t4hJ5o) — opublikowano 2015-03-09. [Indeks wypowiedzi](https://giggukdb.com/?video=ng184t4hJ5o).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 2 | Terror in Resonance | serial TV · dramat, tajemnica, psychologiczny, Thriller | Pochwały reżyserii, obrazu i muzyki, przy zastrzeżeniach do scenariusza. | [MAL](https://myanimelist.net/anime/23283): ✓ Obejrzane | [2:21](https://www.youtube.com/watch?v=ng184t4hJ5o&t=141s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Barakamon | serial TV · obyczajowy | Doceniona ciepła opowieść o wiejskiej społeczności i jej dziecięcych bohaterach. | [MAL](https://myanimelist.net/anime/22789): — Brak wpisu | [4:55](https://www.youtube.com/watch?v=ng184t4hJ5o&t=295s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Monthly Girls’ Nozaki-kun | serial TV · komedia, romans, obyczajowy | Komediowe zaskoczenie dzięki parodii schematów shoujo. | [MAL](https://myanimelist.net/anime/23289): ✓ Obejrzane | [5:13](https://www.youtube.com/watch?v=ng184t4hJ5o&t=313s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Fate/stay night: Unlimited Blade Works (TV, 2014) | serial TV · akcja, fantasy, nadprzyrodzony | Wyróżniona jakość animacji i scen akcji telewizyjnej adaptacji ufotable. | [MAL](https://myanimelist.net/anime/22297): ✓ Obejrzane | [7:50](https://www.youtube.com/watch?v=ng184t4hJ5o&t=470s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Parasyte -the maxim- | serial TV · akcja, dramat, horror, psychologiczny | Docenione animacja i historia; zastrzeżenia dotyczą użycia dubstepu. | [MAL](https://myanimelist.net/anime/22535): ✓ Obejrzane | [8:21](https://www.youtube.com/watch?v=ng184t4hJ5o&t=501s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Your Lie in April | serial TV · dramat, muzyczny, romans, obyczajowy | Pochwały wzruszającej historii i wykonania scen koncertowych. | [MAL](https://myanimelist.net/anime/23273): — Brak wpisu | [9:02](https://www.youtube.com/watch?v=ng184t4hJ5o&t=542s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Shirobako | serial TV · komedia, dramat, obyczajowy | Wyróżnione spojrzenie na pracę ludzi tworzących anime. | [MAL](https://myanimelist.net/anime/25835): — Brak wpisu | [9:39](https://www.youtube.com/watch?v=ng184t4hJ5o&t=579s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Rage of Bahamut: Genesis | serial TV · akcja, przygodowy, fantasy, nadprzyrodzony | Fantasy, którego reżyseria i oprawa przewyższyły oczekiwania wobec adaptacji gry karcianej. | [MAL](https://myanimelist.net/anime/21843): ✓ Obejrzane | [10:17](https://www.youtube.com/watch?v=ng184t4hJ5o&t=617s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | Log Horizon 2 | serial TV · akcja, przygodowy, fantasy | Doceniona konstrukcja świata MMO; odnotowane słabsze wykonanie animacji. | [MAL](https://myanimelist.net/anime/23321): ✓ Obejrzane | [10:26](https://www.youtube.com/watch?v=ng184t4hJ5o&t=626s) |
+| Wyróżnienie w przeglądzie roku: Część 2 | **Hunter x Hunter (2011)** | serial TV · akcja, przygodowy, fantasy | Kończący emisję shounen wyróżniony za świat, bohaterów i fabułę. | [MAL](https://myanimelist.net/anime/11061): ✓ Obejrzane | [11:08](https://www.youtube.com/watch?v=ng184t4hJ5o&t=668s) |
+
+## AZ: Anime in 2013 Part 1
+
+[AZ: Anime in 2013 Part 1](https://www.youtube.com/watch?v=lT5NuM-7B4o) — opublikowano 2013-12-31. [Indeks wypowiedzi](https://giggukdb.com/?video=lT5NuM-7B4o).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Wyróżnienie w przeglądzie roku: Część 1 | Maoyuu Maou Yuusha | serial TV · przygodowy, fantasy, romans | Wyróżniona za zaskakująco intelektualne podejście do fantasy. | [MAL](https://myanimelist.net/anime/14833): ✓ Obejrzane | [1:37](https://www.youtube.com/watch?v=lT5NuM-7B4o&t=97s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Shinsekai yori | serial TV · dramat, horror, tajemnica, psychologiczny | Doceniona mroczna dystopia, która pozostała niedostatecznie zauważona. | [MAL](https://myanimelist.net/anime/13125): ✓ Obejrzane | [2:26](https://www.youtube.com/watch?v=lT5NuM-7B4o&t=146s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | Psycho-Pass | serial TV · akcja, psychologiczny, SF, Thriller | Wskazany jako mroczny kryminał o moralnej niejednoznaczności. | [MAL](https://myanimelist.net/anime/13601): ✓ Obejrzane | [3:05](https://www.youtube.com/watch?v=lT5NuM-7B4o&t=185s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | JoJo’s Bizarre Adventure (2012) | serial TV · akcja, przygodowy, nadprzyrodzony | Chwalony za przesadę, energię i czystą przyjemność oglądania. | [MAL](https://myanimelist.net/anime/14719): ✓ Obejrzane | [3:15](https://www.youtube.com/watch?v=lT5NuM-7B4o&t=195s) |
+| Wyróżnienie w przeglądzie roku: Część 1 | **Attack on Titan** | serial TV · akcja, dramat, fantasy, tajemnica | Fenomen roku: pochwały akcji, świata i fabuły, z zastrzeżeniami do postaci. | [MAL](https://myanimelist.net/anime/16498): ✓ Obejrzane | [4:24](https://www.youtube.com/watch?v=lT5NuM-7B4o&t=264s) |
+
+## AZ: Anime in 2013 Part 2
+
+[AZ: Anime in 2013 Part 2](https://www.youtube.com/watch?v=W_9mRXo-fYE) — opublikowano 2014-01-12. [Indeks wypowiedzi](https://giggukdb.com/?video=W_9mRXo-fYE).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Spis autora — ocena niepotwierdzona: Spis autora | Free! | serial TV · komedia, dramat, obyczajowy, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/18507): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | WataMote | serial TV · komedia, obyczajowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16742): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Danganronpa: The Animation | serial TV · horror, tajemnica, psychologiczny, SF | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16592): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Monogatari Series: Second Season | serial TV · komedia, dramat, tajemnica, psychologiczny | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/17074): □ Planowane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Kick-Heart | film · komedia, romans, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16149): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | RWBY (2013, animacja amerykańska) | serial animowany · akcja, fantasy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | Brak potwierdzonego wpisu MAL; status nieustalony | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Kill la Kill | serial TV · akcja, komedia, ecchi | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/18679): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Log Horizon | serial TV · akcja, przygodowy, fantasy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/17265): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Pokémon Origins | serial — odcinki specjalne · akcja, przygodowy, fantasy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/20159): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Beyond the Boundary | serial TV · akcja, dramat, fantasy, obyczajowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/18153): □ Planowane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Kuroko’s Basketball 2 | serial TV · komedia, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16894): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Hajime no Ippo: Rising | serial TV · komedia, dramat, sportowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/19647): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | The Garden of Words | film · dramat, psychologiczny, romans, obyczajowy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16782): □ Planowane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | The Wind Rises | film · dramat, romans | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/16662): — Brak wpisu | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Berserk: The Golden Age Arc III — The Advent | film · akcja, przygodowy, dramat, fantasy | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/12115): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Steins;Gate: The Movie — Load Region of Déjà Vu | film · dramat, romans, SF, Thriller | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/11577): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Puella Magi Madoka Magica: Rebellion | film · dramat, fantasy, Mahou Shoujo, tajemnica | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/11981): □ Planowane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+| Spis autora — ocena niepotwierdzona: Spis autora | Evangelion: 3.0 You Can (Not) Redo | film · akcja, dramat, mecha, psychologiczny | Tytuł wymieniony w opisie filmu przez Gigguka. Brak dostępnej transkrypcji i wpisu w indeksie: ocena oraz ranga niepotwierdzone; nie jest to deklaracja rekomendacji. | [MAL](https://myanimelist.net/anime/3785): ✓ Obejrzane | [film](https://www.youtube.com/watch?v=W_9mRXo-fYE) |
+
+## 2010s: The Decade Anime Grew Up
+
+[2010s: The Decade Anime Grew Up](https://www.youtube.com/watch?v=VgV-OL_gHig) — opublikowano 2020-03-13. [Indeks wypowiedzi](https://giggukdb.com/?video=VgV-OL_gHig).
+
+| Miejsce / kategoria | Tytuł | Forma · gatunek | Objaśnienie | Twój MAL | Fragment |
+|---|---|---|---|---|---|
+| Esej o dekadzie: Wpływ dekady | One Punch Man | serial TV · akcja, komedia, SF, nadprzyrodzony | Przykład marki, która w szczycie popularności docierała poza typową publiczność anime. | [MAL](https://myanimelist.net/anime/30276): ✓ Obejrzane | [9:48](https://www.youtube.com/watch?v=VgV-OL_gHig&t=588s) |
+| Esej o dekadzie: Wpływ dekady | **Puella Magi Madoka Magica** | serial TV · akcja, dramat, fantasy, Mahou Shoujo | Wpływ na późniejsze magical girls, często naśladowany powierzchownie. | [MAL](https://myanimelist.net/anime/9756): ✓ Obejrzane | [9:48](https://www.youtube.com/watch?v=VgV-OL_gHig&t=588s) |
+| Esej o dekadzie: Wpływ dekady | JoJo’s Bizarre Adventure — adaptacje 2012–2019 | serial TV · akcja, przygodowy, nadprzyrodzony, dramat | Przejście od niszowej marki do stałego elementu fandomu; MAL obejmuje telewizyjne części dekady. | [JoJo's Bizarre Adventure (TV)](https://myanimelist.net/anime/14719): ✓ Obejrzane<br>[JoJo's Bizarre Adventure: Stardust Crusaders](https://myanimelist.net/anime/20899): ✓ Obejrzane<br>[JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt](https://myanimelist.net/anime/26055): ✓ Obejrzane<br>[JoJo's Bizarre Adventure: Diamond is Unbreakable](https://myanimelist.net/anime/31933): ✓ Obejrzane<br>[JoJo's Bizarre Adventure: Golden Wind](https://myanimelist.net/anime/37991): ✓ Obejrzane | [9:57](https://www.youtube.com/watch?v=VgV-OL_gHig&t=597s) |
+| Esej o dekadzie: Wpływ dekady | Monogatari — cykl w latach 2010–2019 | cykl — seriale i filmy · komedia, dramat, ecchi, tajemnica | Marka poszerzająca wyobrażenie autora o anime jako sztuce. Lista MAL obejmuje części wydane w dekadzie, nie starsze Bakemonogatari. | [Nisemonogatari](https://myanimelist.net/anime/11597): ✓ Obejrzane<br>[Nekomonogatari Black](https://myanimelist.net/anime/15689): — Brak wpisu<br>[Monogatari Series Second Season](https://myanimelist.net/anime/17074): □ Planowane<br>[Hanamonogatari](https://myanimelist.net/anime/21855): — Brak wpisu<br>[Tsukimonogatari](https://myanimelist.net/anime/28025): — Brak wpisu<br>[Owarimonogatari](https://myanimelist.net/anime/31181): — Brak wpisu<br>[Koyomimonogatari](https://myanimelist.net/anime/32268): — Brak wpisu<br>[Owarimonogatari Second Season](https://myanimelist.net/anime/35247): — Brak wpisu<br>[Zoku Owarimonogatari](https://myanimelist.net/anime/36999): — Brak wpisu<br>[Kizumonogatari Part 1: Tekketsu](https://myanimelist.net/anime/9260): — Brak wpisu<br>[Kizumonogatari Part 2: Nekketsu](https://myanimelist.net/anime/31757): — Brak wpisu<br>[Kizumonogatari Part 3: Reiketsu](https://myanimelist.net/anime/31758): — Brak wpisu | [10:15](https://www.youtube.com/watch?v=VgV-OL_gHig&t=615s) |
+| Esej o dekadzie: Osobista marka dekady | **Attack on Titan — sezony 1–3** | serial TV · akcja, dramat, fantasy, tajemnica | Osobisty symbol dekady: anime, które weszło do codziennych rozmów poza fandomem. | [Attack on Titan](https://myanimelist.net/anime/16498): ✓ Obejrzane<br>[Attack on Titan Season 2](https://myanimelist.net/anime/25777): ✓ Obejrzane<br>[Attack on Titan Season 3](https://myanimelist.net/anime/35760): ✓ Obejrzane<br>[Attack on Titan Season 3 Part 2](https://myanimelist.net/anime/38524): ✓ Obejrzane | [10:44](https://www.youtube.com/watch?v=VgV-OL_gHig&t=644s) |
+| Esej o dekadzie: Kino anime | Promare | film · akcja, mecha, SF | Pozytywnie wspomniany seans w rozważaniach o rosnącej obecności anime w kinach. | [MAL](https://myanimelist.net/anime/35848): — Brak wpisu | [12:56](https://www.youtube.com/watch?v=VgV-OL_gHig&t=776s) |
+| Esej o dekadzie: Wpływ dekady | **Your Name** | film · dramat, romans, nadprzyrodzony | Sukces kinowy jako dowód istnienia szerszego światowego rynku dla filmów anime. | [MAL](https://myanimelist.net/anime/32281): ✓ Obejrzane | [13:26](https://www.youtube.com/watch?v=VgV-OL_gHig&t=806s) |
 
 ## Weryfikacja i źródła pomocnicze
 

@@ -16212,12 +16212,17 @@
     }
   ],
   "gigguk": {
-    "date": "2026-10-26",
+    "date": "2026-10-28",
     "stats": {
-      "appearances": 164,
-      "malEntries": 165,
-      "years": 9,
-      "completed": 60,
+      "appearances": 297,
+      "malEntries": 278,
+      "years": 13,
+      "videos": 21,
+      "decades": 1,
+      "descriptionOnly": 37,
+      "retrospective": 89,
+      "decadeEntries": 7,
+      "completed": 121,
       "honorable": 39,
       "categoryMentions": 19
     },

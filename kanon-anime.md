@@ -820,4 +820,4 @@ Wymienione dzieła nie mają jednakowej wagi. Pogrubienie wyznacza rdzeń kanonu
 
 ## Gigguk — Best of Anime
 
-Dodano osobną zakładkę w wersji HTML: roczniki 2017–2025, z honorable mentions i filtrem roku. [Czytaj pełne zestawienie](gigguk-best-of.md).
+Dodano osobną zakładkę w wersji HTML: roczniki 2013–2025 i dekadę 2010–2019, z honorable mentions i filtrem roku. [Czytaj pełne zestawienie](gigguk-best-of.md).
